@@ -2,7 +2,7 @@ from backend import GraphRetriever
 from backend import VectorDebriefer
 
 def main():
-    API_KEY = "AIzaSyDmkAjMGxsSd8RnY0mrllhiCfYoktaTzLk"
+    API_KEY = ""
 
     GRAPH_PROMPT_PATH = "prompts/graph_retrieval.txt"
     STEPBACK_PROMPT_PATH = "prompts/stepback_questioner.txt"
