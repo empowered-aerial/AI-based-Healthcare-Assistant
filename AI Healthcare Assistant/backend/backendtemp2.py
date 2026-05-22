@@ -11,7 +11,7 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 from google import genai
 
 
-GENAI_API_KEY = "AIzaSyBb9_QaTgKSoj8d9Ymz1xqhmil48lTVrNg"   #AIzaSyCDdg-OdX21wI3ypcotDbz447W47XDKud8
+GENAI_API_KEY = ""  
 GEMINI_MODEL = "gemini-2.5-flash-lite"
 
 app = FastAPI(title="Baymax Chat Backend")
