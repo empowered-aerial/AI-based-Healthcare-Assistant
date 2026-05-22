@@ -1,0 +1,1516 @@
+[{
+  "id": "disease_001",
+  "name": "Common Cold",
+  "category": "Viral Infection",
+  "description": "A contagious upper respiratory tract infection affecting the nose, throat, sinuses, and trachea. It is caused by more than 200 types of viruses, most commonly rhinoviruses. It is one of the most frequent illnesses experienced by humans and typically resolves within 7 to 10 days.",
+
+  "causative_agents": [
+    "Rhinovirus",
+    "Coronavirus (non-COVID strains)",
+    "Respiratory syncytial virus",
+    "Parainfluenza virus",
+    "Adenovirus"
+  ],
+
+  "symptoms": [
+    "Sore throat",
+    "Tickly throat",
+    "Sneezing",
+    "Runny nose",
+    "Nasal congestion",
+    "Cough",
+    "Hoarseness",
+    "Body aches",
+    "Headache",
+    "Watery eyes",
+    "Fatigue",
+    "Mild fever"
+  ],
+
+  "symptom_stages": {
+    "early_stage": [
+      "Sore throat",
+      "Tickly throat",
+      "Sneezing",
+      "Runny nose",
+      "Nasal congestion",
+      "Cough",
+      "Hoarseness"
+    ],
+    "active_stage": [
+      "Body aches",
+      "Headache",
+      "Watery eyes",
+      "Fatigue",
+      "Fever"
+    ],
+    "late_stage": [
+      "Persistent cough",
+      "Fatigue"
+    ]
+  },
+
+  "natural_remedies": [
+    "Adequate rest",
+    "Warm fluid intake",
+    "Steam inhalation",
+    "Saltwater gargling",
+    "Humidified air exposure"
+  ],
+
+  "natural_ingredients": [
+    "Tulsi",
+    "Ginger",
+    "Black Pepper",
+    "Honey",
+    "Garlic",
+    "Turmeric"
+  ],
+
+  "nutrient_support": [
+    "Vitamin C",
+    "Vitamin D",
+    "Zinc",
+    "Antioxidants",
+    "Protein"
+  ],
+
+  "diet_recommendations": [
+    "Warm fluids such as herbal teas and broths",
+    "Vitamin C rich fruits",
+    "Warm soups",
+    "Light, easy-to-digest meals",
+    "Adequate water intake"
+  ],
+
+  "lifestyle_support": [
+    "Adequate sleep and rest",
+    "Maintaining hydration",
+    "Using humidified air",
+    "Avoiding cold and dry environments",
+    "Reducing physical exertion during recovery"
+  ],
+
+  "recovery_period": {
+    "typical_duration_days": "7-10",
+    "possible_extended_symptom": "Cough may persist for several weeks"
+  },
+
+  "complication_risk": [
+    "Bronchitis",
+    "Sinusitis",
+    "Ear infection",
+    "Secondary bacterial infection"
+  ],
+
+  "contagious": true,
+
+  "allows_user_diagnosis_display": false
+},
+{
+  "id": "disease_002",
+  "name": "Anemia",
+  "category": "Blood Disorder",
+  "description": "A condition in which the body does not have enough healthy red blood cells or hemoglobin to carry adequate oxygen to tissues. It may be inherited or acquired during a person’s lifetime. Severity ranges from mild and temporary to severe and life-threatening.",
+
+  "types": {
+    "acquired": [
+      "Iron-deficiency anemia",
+      "Anemia of chronic disease",
+      "Autoimmune hemolytic anemia",
+      "Macrocytic anemia",
+      "Megaloblastic anemia",
+      "Normocytic anemia",
+      "Pernicious anemia",
+      "Aplastic anemia",
+      "Hemolytic anemia",
+      "Microcytic anemia",
+      "Sideroblastic anemia"
+    ],
+    "inherited": [
+      "Sickle cell anemia",
+      "Thalassemia",
+      "Diamond-Blackfan anemia",
+      "Fanconi anemia"
+    ]
+  },
+
+  "symptoms": [
+    "Fatigue",
+    "Chest pain",
+    "Dizziness",
+    "Frequent infections",
+    "Heart palpitations",
+    "Headache",
+    "Pale skin",
+    "Shortness of breath",
+    "Pulsatile tinnitus",
+    "Weakness"
+  ],
+
+  "causes": [
+    "Iron deficiency",
+    "Vitamin B12 deficiency",
+    "Folate deficiency",
+    "Chronic inflammation",
+    "Blood loss",
+    "Bone marrow disorders",
+    "Autoimmune conditions",
+    "Genetic mutations",
+    "Chronic kidney disease",
+    "Cancer"
+  ],
+
+  "associated_conditions": [
+    "Autoimmune diseases",
+    "Cancer",
+    "Inflammatory bowel disease",
+    "Kidney disease",
+    "Liver disease",
+    "Thyroid disease"
+  ],
+
+  "natural_remedies": [
+    "Balanced iron-rich diet",
+    "Adequate hydration",
+    "Regular moderate exercise",
+    "Infection prevention practices",
+    "Proper rest"
+  ],
+
+  "natural_ingredients": [
+    "Moringa leaves",
+    "Beetroot",
+    "Papaya",
+    "Ginger",
+    "Sweet Potato"
+  ],
+
+  "nutrient_support": [
+    "Iron",
+    "Vitamin B12",
+    "Folate (Vitamin B9)",
+    "Vitamin C",
+    "Protein",
+    "Copper"
+  ],
+
+  "diet_recommendations": [
+    "Iron-rich leafy greens",
+    "Legumes and lentils",
+    "Vitamin C rich fruits to enhance iron absorption",
+    "Whole grains",
+    "Hydrating fluids"
+  ],
+
+  "lifestyle_support": [
+    "Follow prescribed nutritional supplementation",
+    "Stay hydrated",
+    "Engage in safe physical activity",
+    "Prioritize sleep",
+    "Maintain hygiene to prevent infections"
+  ],
+
+  "severity_level": "Variable",
+
+  "long_term_management": true,
+
+  "allows_user_diagnosis_display": false
+},
+{
+  "id": "disease_003",
+  "name": "Alopecia Areata",
+  "category": "Autoimmune Disorder",
+  "description": "An autoimmune condition in which the immune system attacks hair follicles, causing patchy hair loss. It most commonly affects the scalp but may involve facial hair, eyebrows, eyelashes and body hair. The condition is non-contagious and varies in severity from small patches to total body hair loss.",
+
+  "types": [
+    "Alopecia areata (patchy)",
+    "Alopecia areata totalis",
+    "Alopecia areata universalis",
+    "Diffuse alopecia areata",
+    "Ophiasis alopecia areata"
+  ],
+
+  "symptoms": [
+    "Patchy hair loss",
+    "Hair thinning",
+    "Complete scalp hair loss",
+    "Loss of body hair",
+    "Nail pitting",
+    "Brittle nails",
+    "Itchy patches (rare)",
+    "White hair regrowth",
+    "Exclamation point hairs",
+    "Black dots in hair follicles"
+  ],
+
+  "causes": [
+    "Autoimmune response targeting hair follicles",
+    "Genetic predisposition",
+    "Environmental trigger (possible viral exposure)",
+    "Family history of autoimmune disorders"
+  ],
+
+  "risk_factors": [
+    "Childhood onset",
+    "Family history of alopecia areata",
+    "Family history of autoimmune disease",
+    "Personal history of autoimmune disorders (diabetes, lupus, thyroid disease)"
+  ],
+
+  "associated_conditions": [
+    "Thyroid disease",
+    "Type 1 diabetes",
+    "Lupus",
+    "Other autoimmune disorders"
+  ],
+
+  "natural_remedies": [
+    "Aromatherapy scalp massage",
+    "Stress reduction practices",
+    "Balanced nutrient-rich diet",
+    "Scalp circulation stimulation",
+    "Mindfulness and relaxation techniques"
+  ],
+
+  "natural_ingredients": [
+    "Thyme",
+    "Rosemary",
+    "Lavender",
+    "Cedarwood",
+    "Honey",
+    "Onion",
+    "Garlic",
+    "Oatmeal"
+  ],
+
+  "nutrient_support": [
+    "Vitamin D",
+    "Iron",
+    "Zinc",
+    "Protein",
+    "Antioxidants"
+  ],
+
+  "diet_recommendations": [
+    "Fruits and vegetables rich in antioxidants",
+    "Whole grains",
+    "Lean protein sources",
+    "Iron-rich foods",
+    "Zinc-rich foods"
+  ],
+
+  "lifestyle_support": [
+    "Stress management practices",
+    "Adequate sleep",
+    "Regular moderate exercise",
+    "Avoiding restrictive diets",
+    "Monitoring and correcting nutrient deficiencies"
+  ],
+
+  "psychosocial_impact": [
+    "Stress",
+    "Anxiety",
+    "Depression",
+    "Reduced self-esteem"
+  ],
+
+  "contagious": false,
+
+  "long_term_management": true,
+
+  "allows_user_diagnosis_display": false
+},
+{
+  "id": "disease_004",
+  "name": "Migraine",
+  "category": "Neurological Disorder",
+  "description": "Migraine is a neurological condition characterized by severe throbbing or pulsing headache pain, usually on one side of the head. The headache phase can last from four hours to several days and is often worsened by physical activity, bright lights, loud noises, or strong odors. Migraines can significantly disrupt daily activities and quality of life.",
+
+  "types": [
+    "Migraine with aura (classic migraine)",
+    "Migraine without aura (common migraine)",
+    "Abdominal migraine",
+    "Chronic migraine",
+    "Hemiplegic migraine",
+    "Menstrual migraine",
+    "Silent migraine (migraine without headache)",
+    "Retinal migraine (ocular migraine)",
+    "Status migrainosus"
+  ],
+
+  "symptoms": [
+    "Throbbing or pulsing headache",
+    "Head pain on one side of the head",
+    "Head pain that may shift sides",
+    "Nausea",
+    "Vomiting",
+    "Sensitivity to light",
+    "Sensitivity to sound",
+    "Sensitivity to strong odors",
+    "Fatigue",
+    "Dizziness",
+    "Stiff neck",
+    "Difficulty concentrating",
+    "Mood changes",
+    "Trouble sleeping",
+    "Vision changes",
+    "Muscle weakness",
+    "Numbness and tingling",
+    "Difficulty speaking",
+    "Ringing in the ears",
+    "Increased thirst",
+    "Frequent urination"
+  ],
+
+  "causes": [
+    "Genetic predisposition",
+    "Abnormal nerve signaling in brain blood vessels",
+    "Release of inflammatory substances affecting nerves and blood vessels",
+    "Changes in brain chemistry"
+  ],
+
+  "risk_factors": [
+    "Family history of migraines",
+    "Hormonal changes",
+    "Stress",
+    "Sleep disorders",
+    "Depression or anxiety",
+    "Epilepsy",
+    "Regular tobacco use"
+  ],
+
+  "associated_conditions": [
+    "Depression",
+    "Anxiety",
+    "Sleep disorders",
+    "Epilepsy"
+  ],
+
+  "natural_remedies": [
+    "Maintaining regular sleep schedule",
+    "Stress management through meditation and breathing techniques",
+    "Hydration with adequate water intake",
+    "Eating small frequent meals to maintain blood sugar levels",
+    "Massage therapy",
+    "Acupuncture",
+    "Relaxation techniques and mindfulness"
+  ],
+
+  "natural_ingredients": [
+    "Ginger",
+    "Turmeric",
+    "Caffeine",
+    "Peppermint oil",
+    "Coriander seed",
+    "Lavender oil"
+  ],
+
+  "nutrient_support": [
+    "Magnesium",
+    "Vitamin B2 (Riboflavin)",
+    "Coenzyme Q10"
+  ],
+
+  "diet_recommendations": [
+    "Mediterranean-style diet",
+    "Fruits and vegetables",
+    "Beans and legumes",
+    "Lean proteins",
+    "Healthy fats such as olive oil",
+    "Nuts and seeds"
+  ],
+
+  "lifestyle_support": [
+    "Regular sleep routine",
+    "Limiting screen exposure before bedtime",
+    "Stress reduction practices",
+    "Monitoring migraine triggers",
+    "Keeping a migraine journal",
+    "Moderate physical activity"
+  ],
+
+  "psychosocial_impact": [
+    "Stress",
+    "Reduced productivity",
+    "Social disruption",
+    "Anxiety"
+  ],
+
+  "contagious": false,
+
+  "long_term_management": true,
+
+  "allows_user_diagnosis_display": false
+},
+{
+  "id": "disease_005",
+  "name": "Pink Eye (Conjunctivitis)",
+  "category": "Eye Condition",
+  "description": "Pink eye, medically known as conjunctivitis, is inflammation of the conjunctiva — the clear membrane that covers the white part of the eye and the inside of the eyelids. It causes the white of the eye to appear pink or reddish and may lead to swelling, discharge and irritation. Pink eye can affect one or both eyes and may be short-term (acute) or long-term (chronic). Some forms, particularly infectious types, can spread easily between people.",
+
+  "types": [
+    "Viral conjunctivitis",
+    "Bacterial conjunctivitis",
+    "Allergic conjunctivitis",
+    "Irritant conjunctivitis",
+    "Chronic conjunctivitis"
+  ],
+
+  "symptoms": [
+    "Red or pink eye",
+    "Eye discharge (yellow, green or white)",
+    "Crusting on eyelashes or eyelids",
+    "Watery eyes",
+    "Dry eyes",
+    "Itchy eyes",
+    "Burning sensation in the eyes",
+    "Feeling like something is stuck in the eye",
+    "Swollen eyelids",
+    "Blurred vision",
+    "Light sensitivity",
+    "Mild eye pain"
+  ],
+
+  "causes": [
+    "Viral infections",
+    "Bacterial infections",
+    "Allergic reactions",
+    "Exposure to irritants such as smoke, chemicals or chlorine",
+    "Eye injuries",
+    "Autoimmune reactions",
+    "Contact lens irritation"
+  ],
+
+  "risk_factors": [
+    "Exposure to infected individuals",
+    "Poor hand hygiene",
+    "Contact lens use",
+    "Seasonal allergies",
+    "Exposure to smoke, dust or chemical irritants",
+    "Underlying autoimmune conditions"
+  ],
+
+  "associated_conditions": [
+    "Trachoma",
+    "Uveitis",
+    "Corneal inflammation",
+    "Corneal ulcers"
+  ],
+
+  "natural_remedies": [
+    "Cold compress on affected eye",
+    "Cool water eye rinses",
+    "Maintaining proper eye hygiene",
+    "Avoiding irritants such as smoke and chemicals",
+    "Resting the eyes"
+  ],
+
+  "natural_ingredients": [
+    "Cold water",
+    "Clean sterile saline",
+    "Chamomile",
+    "Cucumber",
+    "Rose water"
+  ],
+
+  "nutrient_support": [
+    "Vitamin A",
+    "Vitamin C",
+    "Omega-3 fatty acids",
+    "Antioxidants"
+  ],
+
+  "diet_recommendations": [
+    "Vitamin A rich foods",
+    "Fresh fruits and vegetables",
+    "Hydrating foods",
+    "Foods rich in antioxidants"
+  ],
+
+  "lifestyle_support": [
+    "Frequent hand washing",
+    "Avoid touching or rubbing the eyes",
+    "Avoid sharing towels or cosmetics",
+    "Proper contact lens hygiene",
+    "Keeping eyes clean and rested"
+  ],
+
+  "psychosocial_impact": [
+    "Eye discomfort",
+    "Temporary visual disturbance",
+    "Daily activity disruption",
+    "Irritation and frustration"
+  ],
+
+  "contagious": true,
+
+  "long_term_management": false,
+
+  "allows_user_diagnosis_display": false
+},
+{
+  "id": "disease_006",
+  "name": "Acne (Acne Vulgaris)",
+  "category": "Skin Condition",
+  "description": "Acne is a common skin condition that occurs when hair follicles or skin pores become clogged with oil (sebum), bacteria and dead skin cells. These blockages lead to blackheads, whiteheads and pimples that may become inflamed or painful. Acne is most common during adolescence due to hormonal changes but can occur at any age.",
+
+  "types": [
+    "Cystic acne",
+    "Fungal acne (Pityrosporum folliculitis)",
+    "Hormonal acne",
+    "Nodular acne"
+  ],
+
+  "symptoms": [
+    "Pimples (pus-filled bumps)",
+    "Papules (small red or discolored bumps)",
+    "Blackheads",
+    "Whiteheads",
+    "Painful nodules under the skin",
+    "Cysts filled with pus",
+    "Skin redness and inflammation",
+    "Skin tenderness or swelling"
+  ],
+
+  "causes": [
+    "Clogged hair follicles or pores",
+    "Excess sebum (skin oil) production",
+    "Accumulation of dead skin cells",
+    "Bacterial growth in pores",
+    "Hormonal changes increasing androgen levels"
+  ],
+
+  "risk_factors": [
+    "Teenage hormonal changes",
+    "Family history of acne",
+    "High humidity or environmental pollutants",
+    "Use of oily or greasy cosmetic products",
+    "Certain medications",
+    "High stress levels",
+    "Diet high in sugar",
+    "Consumption of skim milk or whey protein"
+  ],
+
+  "associated_conditions": [
+    "Skin inflammation",
+    "Acne scarring",
+    "Post-inflammatory hyperpigmentation"
+  ],
+
+  "natural_remedies": [
+    "Gentle skin cleansing",
+    "Using non-comedogenic skincare products",
+    "Applying diluted tea tree oil",
+    "Using soothing aloe vera gel",
+    "Stress reduction practices",
+    "Maintaining a balanced diet"
+  ],
+
+  "natural_ingredients": [
+    "Aloe vera",
+    "Tea tree oil",
+    "Raw honey",
+    "Green tea extract"
+  ],
+
+  "nutrient_support": [
+    "Vitamin C",
+    "Beta-carotene",
+    "Antioxidants",
+    "Zinc"
+  ],
+
+  "diet_recommendations": [
+    "Fresh fruits and vegetables",
+    "Foods rich in vitamin C",
+    "Foods rich in beta-carotene",
+    "Balanced low-sugar diet",
+    "Hydrating foods"
+  ],
+
+  "lifestyle_support": [
+    "Avoid picking or squeezing pimples",
+    "Maintain proper skin hygiene",
+    "Manage stress levels",
+    "Avoid heavy oily cosmetics",
+    "Follow a balanced diet"
+  ],
+
+  "psychosocial_impact": [
+    "Reduced self-esteem",
+    "Social anxiety",
+    "Emotional distress",
+    "Body image concerns"
+  ],
+
+  "contagious": false,
+
+  "long_term_management": true,
+
+  "allows_user_diagnosis_display": false
+},
+{
+  "id": "disease_007",
+  "name": "Intertrigo",
+  "category": "Inflammatory Skin Condition",
+  "description": "A common inflammatory skin condition caused by skin-to-skin friction that is worsened by heat and trapped moisture. It typically appears as a red rash in areas where skin folds rub together, such as the armpits, groin, or under the breasts. The condition itself is not an infection but may lead to secondary bacterial or fungal infections.",
+
+  "types": [
+    "Acute intertrigo",
+    "Recurrent intertrigo",
+    "Chronic intertrigo",
+    "Uncomplicated intertrigo",
+    "Interdigital intertrigo",
+    "Candidal intertrigo",
+    "Diaper dermatitis"
+  ],
+
+  "symptoms": [
+    "Red or reddish-brown rash",
+    "Skin irritation",
+    "Itching",
+    "Burning sensation",
+    "Pain in affected areas",
+    "Skin cracking",
+    "Oozing or bleeding skin",
+    "Crusted or scaly skin",
+    "Foul odor in affected area",
+    "Pus-filled bumps (in infection)"
+  ],
+
+  "causes": [
+    "Skin-to-skin friction",
+    "Excess moisture or sweating",
+    "Heat and humidity",
+    "Bacterial overgrowth",
+    "Fungal overgrowth"
+  ],
+
+  "risk_factors": [
+    "Hot and humid environments",
+    "Obesity",
+    "Diabetes",
+    "Weak immune system",
+    "Prolonged moisture exposure"
+  ],
+
+  "associated_conditions": [
+    "Fungal infections (Candida)",
+    "Bacterial skin infections"
+  ],
+
+  "natural_remedies": [
+    "Keeping affected areas dry",
+    "Applying soothing herbal pastes",
+    "Improving skin hygiene",
+    "Using breathable clothing"
+  ],
+
+  "natural_ingredients": [
+    "Neem",
+    "Turmeric",
+    "Aloe vera",
+    "Coconut oil"
+  ],
+
+  "nutrient_support": [
+    "Vitamin C",
+    "Zinc",
+    "Antioxidants"
+  ],
+
+  "diet_recommendations": [
+    "Anti-inflammatory foods",
+    "Fruits rich in vitamin C",
+    "Balanced diet with adequate nutrients"
+  ],
+
+  "lifestyle_support": [
+    "Maintaining skin dryness",
+    "Wearing loose breathable clothes",
+    "Maintaining healthy body weight",
+    "Proper hygiene practices"
+  ],
+
+  "psychosocial_impact": [
+    "Physical discomfort",
+    "Embarrassment",
+    "Reduced confidence"
+  ],
+
+  "contagious": false,
+
+  "long_term_management": true,
+
+  "allows_user_diagnosis_display": false
+},
+{
+  "id": "disease_008",
+  "name": "Allergies",
+  "category": "Immune System Disorder",
+  "description": "Allergies occur when the immune system overreacts to normally harmless substances such as pollen, food proteins, dust, animal dander or insect venom. The body mistakenly identifies these substances as harmful and triggers an immune response, leading to symptoms ranging from mild irritation to severe reactions such as airway swelling or low blood pressure. Allergic reactions vary depending on the trigger and the individual's immune sensitivity.",
+
+  "types": [
+    "Seasonal allergies",
+    "Hay fever (allergic rhinitis)",
+    "Food allergies",
+    "Drug allergies",
+    "Insect sting allergies",
+    "Pet and animal dander allergies",
+    "Dust mite allergies",
+    "Contact dermatitis allergies"
+  ],
+
+  "symptoms": [
+    "Skin rash",
+    "Hives",
+    "Itchy skin",
+    "Sneezing",
+    "Runny nose",
+    "Nasal congestion",
+    "Cough",
+    "Wheezing",
+    "Watery eyes",
+    "Itchy eyes",
+    "Swelling of face or lips",
+    "Swelling of tongue or throat",
+    "Difficulty breathing",
+    "Difficulty swallowing",
+    "Vomiting",
+    "Diarrhea",
+    "Low blood pressure"
+  ],
+
+  "causes": [
+    "Immune system overreaction to foreign proteins",
+    "Exposure to allergens such as pollen, dust mites or pet dander",
+    "Food proteins triggering immune response",
+    "Drug-related immune reactions",
+    "Insect venom exposure",
+    "Repeated exposure to allergens causing immune sensitization"
+  ],
+
+  "risk_factors": [
+    "Family history of allergies",
+    "Personal history of asthma",
+    "Presence of eczema or other atopic conditions",
+    "Frequent exposure to environmental allergens",
+    "Weakened immune regulation"
+  ],
+
+  "associated_conditions": [
+    "Asthma",
+    "Eczema",
+    "Allergic rhinitis",
+    "Sinus inflammation",
+    "Food sensitivities"
+  ],
+
+  "natural_remedies": [
+    "Saline nasal irrigation using a neti pot",
+    "Maintaining clean indoor air with HEPA filtration",
+    "Regular bathing to remove allergens from skin and hair",
+    "Weekly washing of bedding in hot water",
+    "Acupuncture for immune balance",
+    "Nasal cleansing practices such as Jalneti",
+    "Warm herbal teas such as ginger lemon tea"
+  ],
+
+  "natural_ingredients": [
+    "Ginger",
+    "Turmeric",
+    "Basil",
+    "Cinnamon",
+    "Cardamom",
+    "Coriander",
+    "Cilantro",
+    "Neem",
+    "Aloe vera",
+    "Ashwagandha",
+    "Guduchi",
+    "Amalaki",
+    "Licorice"
+  ],
+
+  "nutrient_support": [
+    "Vitamin C",
+    "Vitamin D",
+    "Vitamin A",
+    "Omega-3 fatty acids",
+    "Probiotics",
+    "Antioxidants"
+  ],
+
+  "diet_recommendations": [
+    "Fresh fruits and vegetables rich in antioxidants",
+    "Fermented foods containing probiotics",
+    "Warm and freshly prepared meals",
+    "Whole foods with minimal processing",
+    "Adequate hydration with warm herbal beverages"
+  ],
+
+  "lifestyle_support": [
+    "Regular exercise to support immune health",
+    "Maintaining clean indoor air environments",
+    "Reducing exposure to known allergens",
+    "Practicing breathing exercises such as pranayama",
+    "Maintaining good sleep and stress management"
+  ],
+
+  "psychosocial_impact": [
+    "Stress due to chronic symptoms",
+    "Anxiety during severe allergic reactions",
+    "Lifestyle adjustments to avoid allergens"
+  ],
+
+  "contagious": false,
+
+  "long_term_management": true,
+
+  "allows_user_diagnosis_display": false
+},
+{
+  "id": "disease_009",
+  "name": "Cold Sores",
+  "category": "Viral Infection",
+  "description": "Cold sores, also known as fever blisters, are small fluid-filled blisters that typically form on the lips or around the mouth due to infection with the herpes simplex virus (HSV). The virus remains dormant in nerve cells and can reactivate periodically, causing recurrent outbreaks. Cold sores usually heal within one to two weeks but may cause discomfort, pain, and temporary skin irritation during the outbreak.",
+
+  "types": [
+    "HSV-1 oral herpes",
+    "HSV-2 oral herpes",
+    "Recurrent cold sores",
+    "Primary oral herpes infection"
+  ],
+
+  "symptoms": [
+    "Tingling sensation around lips",
+    "Itching around mouth",
+    "Painful lip blisters",
+    "Fluid-filled blisters",
+    "Redness around affected area",
+    "Swelling near lips",
+    "Blisters that burst and ooze fluid",
+    "Crusting or scabbing sores",
+    "Mild lip pain",
+    "Lip sensitivity",
+    "Fever (during initial infection)",
+    "Sore throat (during primary infection)",
+    "Painful mouth ulcers",
+    "Difficulty eating or drinking"
+  ],
+
+  "causes": [
+    "Infection with herpes simplex virus type 1 (HSV-1)",
+    "Infection with herpes simplex virus type 2 (HSV-2)",
+    "Viral reactivation from dormant nerve cells",
+    "Immune system stress",
+    "Direct contact with infected saliva or skin"
+  ],
+
+  "risk_factors": [
+    "Close contact with infected individuals",
+    "Weakened immune system",
+    "Physical or emotional stress",
+    "Excessive sun exposure",
+    "Hormonal changes",
+    "Illness or fever",
+    "Trauma to the lips or mouth"
+  ],
+
+  "associated_conditions": [
+    "Oral herpes",
+    "Herpetic whitlow",
+    "Genital herpes",
+    "Viral skin infections"
+  ],
+
+  "natural_remedies": [
+    "Cold compress therapy",
+    "Maintaining lip moisture with natural balms",
+    "Proper hydration",
+    "Avoiding lip irritation during outbreaks",
+    "Stress reduction practices"
+  ],
+
+  "natural_ingredients": [
+    "Aloe vera",
+    "Manuka honey",
+    "Lemon balm",
+    "Licorice root",
+    "Coconut oil"
+  ],
+
+  "nutrient_support": [
+    "Vitamin C",
+    "Vitamin A",
+    "Zinc",
+    "Lysine",
+    "Antioxidants"
+  ],
+
+  "diet_recommendations": [
+    "Foods rich in vitamin C such as citrus fruits",
+    "Zinc-rich foods such as seeds and nuts",
+    "Protein-rich foods for immune support",
+    "Hydrating foods such as fruits and vegetables"
+  ],
+
+  "lifestyle_support": [
+    "Avoid direct contact with active sores",
+    "Maintain good oral hygiene",
+    "Protect lips from excessive sun exposure",
+    "Manage stress to reduce viral reactivation",
+    "Avoid sharing utensils or lip products during outbreaks"
+  ],
+
+  "psychosocial_impact": [
+    "Embarrassment due to visible facial sores",
+    "Social discomfort during outbreaks",
+    "Stress related to recurrent infections"
+  ],
+
+  "contagious": true,
+
+  "long_term_management": true,
+
+  "allows_user_diagnosis_display": false
+},
+{
+  "id": "disease_010",
+  "name": "Hemorrhoids",
+  "category": "Vascular / Digestive Disorder",
+  "description": "Hemorrhoids, also known as piles, are swollen and enlarged veins that develop in the rectum or around the anus due to increased pressure in the lower rectal veins. They may occur internally within the rectum or externally under the skin around the anus. Hemorrhoids can cause discomfort, itching, pain and rectal bleeding, particularly during bowel movements. Although common and usually not dangerous, persistent symptoms may require medical attention.",
+
+  "types": [
+    "Internal hemorrhoids",
+    "External hemorrhoids",
+    "Prolapsed hemorrhoids",
+    "Thrombosed hemorrhoids"
+  ],
+
+  "symptoms": [
+    "Bright red blood during bowel movements",
+    "Itching around the anus",
+    "Anal irritation",
+    "Pain or discomfort in the anal area",
+    "Swelling around the anus",
+    "Tender lump near the anus",
+    "Hard painful lump near the anus",
+    "Pain while sitting",
+    "Mucus discharge from anus",
+    "Anal soreness"
+  ],
+
+  "causes": [
+    "Increased pressure in rectal veins",
+    "Straining during bowel movements",
+    "Chronic constipation",
+    "Chronic diarrhea",
+    "Low fiber diet",
+    "Prolonged sitting on the toilet",
+    "Heavy lifting",
+    "Pregnancy"
+  ],
+
+  "risk_factors": [
+    "Aging (over 50 years)",
+    "Obesity",
+    "Sedentary lifestyle",
+    "Pregnancy",
+    "Chronic constipation",
+    "Low fiber diet",
+    "Frequent heavy lifting"
+  ],
+
+  "associated_conditions": [
+    "Chronic constipation",
+    "Anal fissures",
+    "Rectal bleeding",
+    "Digestive disorders"
+  ],
+
+  "natural_remedies": [
+    "Warm sitz baths",
+    "Increasing dietary fiber intake",
+    "Proper hydration",
+    "Avoid prolonged sitting",
+    "Gentle anal hygiene",
+    "Regular bowel movement habits"
+  ],
+
+  "natural_ingredients": [
+    "Aloe vera",
+    "Garlic",
+    "Onion",
+    "Moringa",
+    "Guava leaves"
+  ],
+
+  "nutrient_support": [
+    "Dietary fiber",
+    "Vitamin C",
+    "Flavonoids",
+    "Magnesium",
+    "Antioxidants"
+  ],
+
+  "diet_recommendations": [
+    "High fiber foods such as whole grains",
+    "Fresh fruits and vegetables",
+    "Legumes and beans",
+    "Seeds and nuts",
+    "Adequate daily water intake"
+  ],
+
+  "lifestyle_support": [
+    "Avoid straining during bowel movements",
+    "Regular physical activity",
+    "Maintaining healthy body weight",
+    "Avoid sitting for long periods",
+    "Establish consistent bowel habits"
+  ],
+
+  "psychosocial_impact": [
+    "Embarrassment",
+    "Discomfort during daily activities",
+    "Stress due to chronic symptoms"
+  ],
+
+  "contagious": false,
+
+  "long_term_management": true,
+
+  "allows_user_diagnosis_display": false
+},
+{
+  "id": "disease_011",
+  "name": "Lactose Intolerance",
+  "category": "Digestive Disorder / Food Intolerance",
+  "description": "Lactose intolerance is a digestive condition in which the body cannot properly digest lactose, the natural sugar found in milk and dairy products. It occurs when the small intestine produces insufficient amounts of the enzyme lactase, which is needed to break lactose into absorbable sugars. Undigested lactose passes into the large intestine where bacteria ferment it, producing gas and excess fluid that lead to digestive symptoms such as bloating, abdominal pain and diarrhea after consuming dairy products.",
+
+  "types": [
+    "Primary lactose intolerance",
+    "Secondary lactose intolerance",
+    "Congenital lactose intolerance",
+    "Developmental lactose intolerance"
+  ],
+
+  "symptoms": [
+    "Abdominal bloating",
+    "Intestinal gas",
+    "Stomach cramps",
+    "Stomach rumbling",
+    "Diarrhea",
+    "Nausea",
+    "Vomiting",
+    "Abdominal discomfort after consuming dairy",
+    "Digestive upset after milk consumption"
+  ],
+
+  "causes": [
+    "Lactase enzyme deficiency",
+    "Reduced lactase production with age",
+    "Damage to the small intestine lining",
+    "Genetic predisposition",
+    "Intestinal infections",
+    "Digestive disorders affecting the small intestine"
+  ],
+
+  "risk_factors": [
+    "Increasing age",
+    "Asian ancestry",
+    "Native American ancestry",
+    "Hispanic ancestry",
+    "Digestive diseases such as celiac disease",
+    "Inflammatory bowel disease",
+    "Small intestinal bacterial overgrowth",
+    "History of intestinal surgery"
+  ],
+
+  "associated_conditions": [
+    "Irritable bowel syndrome",
+    "Small intestinal bacterial overgrowth",
+    "Celiac disease",
+    "Inflammatory bowel disease",
+    "Gut microbiome imbalance"
+  ],
+
+  "natural_remedies": [
+    "Limiting or avoiding lactose-containing foods",
+    "Consuming lactose-free dairy alternatives",
+    "Taking lactase enzyme supplements before dairy consumption",
+    "Consuming smaller portions of dairy foods",
+    "Including probiotic foods to support gut health"
+  ],
+
+  "natural_ingredients": [
+    "Ginger",
+    "Garlic",
+    "Probiotic yogurt",
+    "Fermented foods",
+    "Herbal digestive teas"
+  ],
+
+  "nutrient_support": [
+    "Calcium",
+    "Vitamin D",
+    "Probiotics",
+    "Magnesium",
+    "Digestive enzymes"
+  ],
+
+  "diet_recommendations": [
+    "Lactose-free milk alternatives such as almond milk or soy milk",
+    "Low-lactose dairy such as hard cheeses",
+    "Calcium-rich vegetables like broccoli and kale",
+    "Protein sources such as beans, lentils and eggs",
+    "Balanced diet supporting gut health"
+  ],
+
+  "lifestyle_support": [
+    "Monitor and track foods that trigger symptoms",
+    "Consume dairy in small quantities if tolerated",
+    "Maintain a balanced gut microbiome through healthy diet",
+    "Regular digestive health checkups if symptoms persist"
+  ],
+
+  "psychosocial_impact": [
+    "Dietary restrictions in social situations",
+    "Embarrassment due to digestive symptoms",
+    "Discomfort affecting daily activities"
+  ],
+
+  "contagious": false,
+
+  "long_term_management": true,
+
+  "allows_user_diagnosis_display": false
+},
+{
+  "id": "disease_012",
+  "name": "Tension Headache",
+  "category": "Neurological / Primary Headache Disorder",
+  "description": "Tension headache is the most common type of primary headache and is characterized by a sensation of pressure or tightness around the head, often described as a band-like squeezing around the forehead and temples. The pain is usually mild to moderate and may be accompanied by tightness in the neck and shoulder muscles. Tension headaches can occur occasionally or become chronic when they appear frequently over several months.",
+
+  "types": [
+    "Infrequent episodic tension headache",
+    "Frequent episodic tension headache",
+    "Chronic tension headache"
+  ],
+
+  "symptoms": [
+    "Dull aching head pain",
+    "Pressure or tightness around the forehead",
+    "Band-like squeezing sensation around the head",
+    "Pain in the temples",
+    "Tenderness in scalp muscles",
+    "Neck muscle tightness",
+    "Shoulder muscle tension",
+    "Sensitivity to light",
+    "Sensitivity to sound"
+  ],
+
+  "causes": [
+    "Muscle tension in the head and neck",
+    "Emotional stress",
+    "Anxiety",
+    "Depression",
+    "Poor posture",
+    "Eye strain from prolonged screen use",
+    "Temporomandibular joint disorder",
+    "Degenerative arthritis of the neck",
+    "Sleep disorders such as insomnia or sleep apnea"
+  ],
+
+  "risk_factors": [
+    "Chronic stress",
+    "Poor ergonomic posture",
+    "Prolonged computer or screen exposure",
+    "Sleep deprivation",
+    "Emotional or psychological stress",
+    "Anxiety disorders",
+    "Depression"
+  ],
+
+  "associated_conditions": [
+    "Temporomandibular joint disorder",
+    "Neck strain",
+    "Sleep disorders",
+    "Anxiety disorders",
+    "Depression"
+  ],
+
+  "natural_remedies": [
+    "Relaxation techniques such as deep breathing",
+    "Stress management practices",
+    "Neck and shoulder stretching exercises",
+    "Adequate hydration",
+    "Warm compress on neck and shoulders",
+    "Regular breaks from screen exposure",
+    "Massage therapy"
+  ],
+
+  "natural_ingredients": [
+    "Ginger",
+    "Peppermint",
+    "Chamomile",
+    "Lavender",
+    "Turmeric"
+  ],
+
+  "nutrient_support": [
+    "Magnesium",
+    "Vitamin B2 (Riboflavin)",
+    "Vitamin B complex",
+    "Omega-3 fatty acids",
+    "Antioxidants"
+  ],
+
+  "diet_recommendations": [
+    "Balanced meals with whole grains",
+    "Fruits and vegetables rich in antioxidants",
+    "Magnesium-rich foods such as nuts and seeds",
+    "Adequate daily hydration",
+    "Avoid excessive caffeine and processed foods"
+  ],
+
+  "lifestyle_support": [
+    "Maintain proper posture while working",
+    "Take regular breaks from screen use",
+    "Practice stress reduction techniques",
+    "Maintain regular sleep schedule",
+    "Engage in regular physical activity"
+  ],
+
+  "psychosocial_impact": [
+    "Reduced concentration",
+    "Work productivity issues",
+    "Irritability",
+    "Stress due to chronic pain"
+  ],
+
+  "contagious": false,
+
+  "long_term_management": true,
+
+  "allows_user_diagnosis_display": false
+},
+{
+  "id": "disease_013",
+  "name": "Arthritis",
+  "category": "Musculoskeletal / Joint Disorder",
+  "description": "Arthritis is a group of diseases that cause inflammation, degeneration or damage in the joints, which are the points where two bones meet. It commonly leads to joint pain, stiffness, swelling and reduced range of motion. Arthritis can affect any joint in the body but most frequently occurs in the hands, wrists, knees, hips, feet, ankles, shoulders and lower back. The condition may develop due to age-related wear and tear, autoimmune reactions, metabolic abnormalities or joint injuries.",
+
+  "types": [
+    "Osteoarthritis",
+    "Rheumatoid arthritis",
+    "Gout",
+    "Ankylosing spondylitis",
+    "Psoriatic arthritis",
+    "Juvenile arthritis"
+  ],
+
+  "symptoms": [
+    "Joint pain",
+    "Joint stiffness",
+    "Joint swelling",
+    "Reduced range of motion",
+    "Tenderness around joints",
+    "Warmth around affected joints",
+    "Joint redness",
+    "Difficulty moving joints",
+    "Morning stiffness",
+    "Weakness around joints"
+  ],
+
+  "causes": [
+    "Age-related joint wear and tear",
+    "Autoimmune reactions attacking joint tissues",
+    "Uric acid crystal accumulation in joints",
+    "Joint injuries or trauma",
+    "Chronic inflammation",
+    "Genetic predisposition",
+    "Metabolic abnormalities"
+  ],
+
+  "risk_factors": [
+    "Aging",
+    "Family history of arthritis",
+    "Previous joint injuries",
+    "Obesity",
+    "Autoimmune disorders",
+    "Sedentary lifestyle",
+    "Occupations involving repetitive joint stress"
+  ],
+
+  "associated_conditions": [
+    "Psoriasis",
+    "Metabolic disorders",
+    "Autoimmune diseases",
+    "Chronic inflammation",
+    "Joint degeneration"
+  ],
+
+  "natural_remedies": [
+    "Regular low-impact exercise",
+    "Warm compress on affected joints",
+    "Gentle stretching exercises",
+    "Weight management",
+    "Adequate rest for inflamed joints",
+    "Physical therapy exercises"
+  ],
+
+  "natural_ingredients": [
+    "Turmeric",
+    "Ginger",
+    "Garlic",
+    "Moringa",
+    "Boswellia"
+  ],
+
+  "nutrient_support": [
+    "Omega-3 fatty acids",
+    "Vitamin D",
+    "Calcium",
+    "Magnesium",
+    "Antioxidants"
+  ],
+
+  "diet_recommendations": [
+    "Fatty fish such as salmon, tuna and sardines",
+    "Berries including blueberries and strawberries",
+    "Apples and pomegranates",
+    "Anti-inflammatory vegetables such as broccoli and cauliflower",
+    "Whole grains like quinoa and bulgur",
+    "Healthy oils such as olive oil and canola oil",
+    "Nuts and seeds",
+    "Green tea"
+  ],
+
+  "lifestyle_support": [
+    "Regular physical activity",
+    "Maintaining healthy body weight",
+    "Avoid excessive joint strain",
+    "Good posture and ergonomic practices",
+    "Balanced sleep routine"
+  ],
+
+  "psychosocial_impact": [
+    "Chronic pain-related stress",
+    "Reduced mobility affecting daily activities",
+    "Emotional distress due to persistent discomfort"
+  ],
+
+  "contagious": false,
+
+  "long_term_management": true,
+
+  "allows_user_diagnosis_display": false
+},
+{
+  "id": "disease_014",
+  "name": "Gallstones",
+  "category": "Digestive / Hepatobiliary Disorder",
+  "description": "Gallstones are hardened deposits of digestive fluid (bile) that form in the gallbladder or bile ducts. The gallbladder stores bile produced by the liver, which helps digest fats. Gallstones develop when substances in bile such as cholesterol or bilirubin become concentrated and crystallize into stones. Many people with gallstones may not experience symptoms, but when a stone blocks a bile duct it can cause severe abdominal pain and digestive complications.",
+
+  "types": [
+    "Cholesterol gallstones",
+    "Pigment gallstones",
+    "Mixed gallstones"
+  ],
+
+  "symptoms": [
+    "Sudden pain in the upper right abdomen",
+    "Pain in the middle of the abdomen",
+    "Pain between shoulder blades",
+    "Pain in the right shoulder",
+    "Nausea",
+    "Vomiting",
+    "Abdominal tenderness",
+    "Abdominal bloating",
+    "Fever",
+    "Yellowing of skin and eyes"
+  ],
+
+  "causes": [
+    "Excess cholesterol in bile",
+    "Excess bilirubin in bile",
+    "Insufficient bile salts",
+    "Poor gallbladder emptying",
+    "Sediment accumulation in bile",
+    "Imbalance in bile composition"
+  ],
+
+  "risk_factors": [
+    "Female gender",
+    "Age over 40",
+    "Obesity",
+    "Rapid weight loss",
+    "High cholesterol levels",
+    "Family history of gallstones",
+    "Pregnancy",
+    "Hormonal changes"
+  ],
+
+  "associated_conditions": [
+    "Cholecystitis",
+    "Pancreatitis",
+    "Cholangitis",
+    "Hepatitis",
+    "Jaundice"
+  ],
+
+  "natural_remedies": [
+    "Maintaining a balanced low-fat diet",
+    "Regular physical activity",
+    "Adequate hydration",
+    "Gradual weight management",
+    "Consuming fiber-rich foods"
+  ],
+
+  "natural_ingredients": [
+    "Turmeric",
+    "Ginger",
+    "Garlic",
+    "Lemon",
+    "Apple cider vinegar"
+  ],
+
+  "nutrient_support": [
+    "Dietary fiber",
+    "Vitamin C",
+    "Magnesium",
+    "Antioxidants",
+    "Healthy fats"
+  ],
+
+  "diet_recommendations": [
+    "High fiber foods such as whole grains",
+    "Fresh fruits and vegetables",
+    "Healthy fats such as olive oil",
+    "Lean protein sources",
+    "Reduced intake of fried and fatty foods"
+  ],
+
+  "lifestyle_support": [
+    "Maintaining a healthy body weight",
+    "Regular physical exercise",
+    "Avoid rapid weight loss",
+    "Balanced eating patterns",
+    "Consistent hydration"
+  ],
+
+  "psychosocial_impact": [
+    "Anxiety during severe pain episodes",
+    "Discomfort affecting daily activities",
+    "Stress related to recurrent abdominal pain"
+  ],
+
+  "contagious": false,
+
+  "long_term_management": true,
+
+  "allows_user_diagnosis_display": false
+}
+]

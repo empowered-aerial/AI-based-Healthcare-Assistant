@@ -1,0 +1,2940 @@
+[
+{
+  "entity": "Vitamin A",
+  "type": "Nutrient",
+  "category": "Vitamin",
+  "subtype": "Fat-soluble vitamin",
+
+  "description": "Vitamin A, also known as retinol, is an essential fat-soluble vitamin that supports immune function, vision in dim light, cellular growth, and the maintenance of healthy skin and epithelial linings such as the respiratory and digestive tract.",
+
+  "primary_functions": [
+    "Supports immune system function",
+    "Maintains vision, especially in low-light conditions",
+    "Maintains skin health and integrity",
+    "Maintains epithelial tissue integrity",
+    "Supports cellular growth and development",
+    "Supports formation and maintenance of protective body barriers"
+  ],
+
+  "supportive_roles": [
+    "Strengthens natural immune defenses against pathogens",
+    "Helps maintain protective barriers in respiratory and digestive systems",
+    "Supports recovery from infections",
+    "Promotes healing of damaged tissues",
+    "Supports skin repair and regeneration",
+    "Helps maintain mucosal linings such as nose and throat"
+  ],
+
+  "body_systems_supported": [
+    "Immune System",
+    "Visual System",
+    "Integumentary System",
+    "Epithelial System",
+    "Cellular System"
+  ],
+
+  "target_systems": [
+    "immune system",
+    "vision",
+    "skin",
+    "epithelial tissues",
+    "cellular health"
+  ],
+
+  "deficiency_effects": [
+    "Night blindness",
+    "Dry eyes",
+    "Impaired immune function",
+    "Frequent infections",
+    "Dry or damaged skin",
+    "Epithelial tissue damage",
+    "Increased susceptibility to infections"
+  ],
+
+  "excess_effects": [
+    "Hypervitaminosis A",
+    "Bone weakness",
+    "Increased risk of bone fractures"
+  ],
+
+  "related_symptoms": [
+    "Night blindness",
+    "Frequent infections",
+    "Dry skin",
+    "Poor vision in low light",
+    "Delayed recovery from infections"
+  ],
+
+  "supportive_use_cases": [
+    "Immune system strengthening",
+    "Support during infections",
+    "Vision health maintenance",
+    "Skin repair support",
+    "Maintenance of epithelial barrier protection",
+    "Supporting recovery from illness"
+  ],
+
+  "food_sources": [
+    "Liver",
+    "Cheese",
+    "Eggs",
+    "Egg yolk",
+    "Milk",
+    "Yoghurt",
+    "Salmon",
+    "Sardines",
+    "Trout",
+    "Herring",
+    "Mackerel",
+    "Spinach",
+    "Carrots",
+    "Sweet potatoes",
+    "Pumpkin",
+    "Red peppers",
+    "Mango",
+    "Papaya",
+    "Apricots"
+  ],
+
+  "natural_sources": [
+    "Carrots",
+    "Spinach",
+    "Sweet potatoes",
+    "Pumpkin",
+    "Mango",
+    "Papaya",
+    "Milk",
+    "Egg yolk"
+  ],
+
+  "recommended_daily_allowance": {
+    "adult_male": "700 µg RE",
+    "adult_female": "600 µg RE"
+  },
+
+  "absorption": {
+    "enhanced_by": [
+      "Dietary fat",
+      "Healthy fats",
+      "Zinc",
+      "Vitamin E"
+    ],
+    "inhibited_by": [],
+    "notes": "Vitamin A is fat-soluble and absorbs better when consumed with healthy fats such as nuts, seeds, or oils."
+  },
+
+  "synergistic_nutrients": [
+    "Zinc",
+    "Vitamin E",
+    "Healthy fats"
+  ],
+
+  "interacts_with": [
+    "Dietary fat",
+    "Beta-carotene",
+    "Zinc",
+    "Vitamin E"
+  ],
+
+  "storage": {
+    "location": "Liver",
+    "notes": "Stored in the liver for future use and released when needed."
+  },
+
+  "safety_notes": "Prefer natural food sources for supportive care. Excessive intake from artificial supplementation may cause toxicity. Natural food-based intake is safer and recommended.",
+
+  "care_guidance": {
+    "care_type": "supportive",
+    "drug_recommendation_allowed": false,
+    "natural_support_priority": true,
+    "immune_supportive": true
+  },
+
+  "tags": [
+    "immunity",
+    "vision",
+    "skin health",
+    "epithelial health",
+    "infection support",
+    "immune strengthening",
+    "supportive care"
+  ],
+
+  "metadata": {
+    "essential": true,
+    "nutrient_class": "vitamin",
+    "fat_soluble": true,
+    "stored_in_body": true,
+    "primary_storage_location": "liver",
+    "support_scope": [
+      "immune support",
+      "vision support",
+      "skin support",
+      "infection recovery support"
+    ]
+  }
+},
+
+{
+  "entity": "Vitamin B1",
+  "type": "Nutrient",
+  "category": "Vitamin",
+  "description": "Vitamin B1, also known as thiamin, is an essential water-soluble vitamin that helps the body convert food into energy and supports proper nervous system function.",
+  "functions": [
+    "Supports energy metabolism",
+    "Helps convert carbohydrates into usable energy",
+    "Maintains healthy nervous system function",
+    "Supports cellular energy production",
+    "Supports proper muscle and nerve coordination"
+  ],
+  "primary_functions": [
+    "Enables energy release from food",
+    "Supports nervous system health",
+    "Maintains proper cellular metabolism",
+    "Supports neurological signaling"
+  ],
+  "supportive_roles": [
+    "Supports energy levels and reduces fatigue related to deficiency",
+    "Supports nervous system stability",
+    "Helps maintain proper brain function",
+    "Supports recovery from energy depletion",
+    "Helps maintain metabolic efficiency"
+  ],
+  "target_systems": [
+    "nervous system",
+    "metabolic system",
+    "cellular energy system",
+    "muscular system"
+  ],
+  "deficiency_causes": [
+    "Thiamine Deficiency",
+    "Beriberi",
+    "Nervous System Dysfunction",
+    "Energy Metabolism Impairment"
+  ],
+  "deficiency_effects": [
+    "Fatigue",
+    "Weakness",
+    "Nerve dysfunction",
+    "Muscle weakness",
+    "Poor coordination",
+    "Confusion",
+    "Reduced energy levels"
+  ],
+  "excess_causes": [
+    "Excess thiamin from supplements (rare due to water-soluble nature)"
+  ],
+  "food_sources": [
+    "Wholegrain breads",
+    "Fortified breakfast cereals",
+    "Peas",
+    "Beans",
+    "Nuts",
+    "Bananas",
+    "Oranges",
+    "Pork",
+    "Grains",
+    "Liver"
+  ],
+  "natural_sources": [
+    "whole grains",
+    "pork",
+    "nuts",
+    "beans",
+    "peas",
+    "bananas",
+    "oranges",
+    "fortified cereals"
+  ],
+  "recommended_daily_allowance": {
+    "adult_male": "1 mg",
+    "adult_female": "0.8 mg"
+  },
+  "absorption_factors": {
+    "enhanced_by": [
+      "Regular dietary intake"
+    ],
+    "inhibited_by": [
+      "Alcohol consumption",
+      "Poor nutritional intake"
+    ]
+  },
+  "absorption_notes": "Vitamin B1 is water-soluble and cannot be stored in the body, so regular daily intake is required.",
+  "synergistic_nutrients": [
+    "Vitamin B2",
+    "Vitamin B3",
+    "Magnesium",
+    "Other B-complex vitamins"
+  ],
+  "supports_conditions": [
+    "Energy Deficiency",
+    "Fatigue",
+    "Nervous System Support",
+    "Metabolic Support"
+  ],
+  "supportive_use_cases": [
+    "Energy metabolism support",
+    "Nervous system support",
+    "Fatigue support",
+    "Metabolic function support",
+    "Neurological health maintenance"
+  ],
+  "related_symptoms": [
+    "Fatigue",
+    "Weakness",
+    "Nerve dysfunction",
+    "Muscle weakness",
+    "Low energy",
+    "Poor coordination"
+  ],
+  "interacts_with": [
+    "Vitamin B2",
+    "Vitamin B3",
+    "Magnesium",
+    "Other B-complex vitamins"
+  ],
+  "tags": [
+    "energy metabolism",
+    "nerve function",
+    "fatigue support",
+    "neurological health",
+    "metabolic support"
+  ],
+  "metadata": {
+    "body_systems_supported": [
+      "Nervous System",
+      "Metabolic System",
+      "Muscular System",
+      "Cellular System"
+    ],
+    "essential": true,
+    "storage": "Not stored in the body; requires daily intake",
+    "care_type": "supportive",
+    "drug_recommendation_allowed": false,
+    "solubility": "Water-soluble"
+  },
+  "safety_notes": "Prefer obtaining from natural food sources. Excess from food is generally safe because excess amounts are excreted in urine."
+},
+{
+  "entity": "Vitamin B2",
+  "type": "Nutrient",
+  "category": "Vitamin",
+  "description": "Vitamin B2, also known as riboflavin, is an essential water-soluble vitamin that supports energy production, tissue repair, and the maintenance of healthy skin, eyes, and nervous system.",
+  "functions": [
+    "Supports energy production",
+    "Helps convert food into usable cellular energy",
+    "Maintains healthy skin",
+    "Maintains healthy eyes",
+    "Supports nervous system function",
+    "Supports tissue repair and cellular maintenance"
+  ],
+  "primary_functions": [
+    "Supports cellular energy metabolism",
+    "Maintains skin and eye health",
+    "Supports nervous system stability",
+    "Supports tissue growth and repair"
+  ],
+  "supportive_roles": [
+    "Supports recovery from tissue damage",
+    "Helps maintain healthy vision",
+    "Supports nervous system stability",
+    "Supports metabolic efficiency",
+    "Supports skin repair and maintenance"
+  ],
+  "target_systems": [
+    "nervous system",
+    "visual system",
+    "integumentary system",
+    "metabolic system",
+    "cellular system"
+  ],
+  "deficiency_causes": [
+    "Riboflavin Deficiency",
+    "Ariboflavinosis",
+    "Impaired Energy Metabolism",
+    "Tissue Repair Impairment"
+  ],
+  "deficiency_effects": [
+    "Dry or cracked skin",
+    "Eye irritation",
+    "Sensitivity to light",
+    "Fatigue",
+    "Weakness",
+    "Inflammation of mouth or lips",
+    "Poor tissue repair"
+  ],
+  "excess_causes": [
+    "Excess riboflavin from supplementation (rare due to water-soluble nature)"
+  ],
+  "food_sources": [
+    "Milk",
+    "Eggs",
+    "Fortified breakfast cereals",
+    "Mushrooms",
+    "Plain yoghurt",
+    "Dairy products",
+    "Lean meats",
+    "Leafy green vegetables"
+  ],
+  "natural_sources": [
+    "milk",
+    "eggs",
+    "yoghurt",
+    "mushrooms",
+    "leafy greens",
+    "lean meats",
+    "fortified cereals"
+  ],
+  "recommended_daily_allowance": {
+    "adult_male": "1.3 mg",
+    "adult_female": "1.1 mg"
+  },
+  "absorption_factors": {
+    "enhanced_by": [
+      "Regular dietary intake"
+    ],
+    "inhibited_by": [
+      "UV light exposure",
+      "Poor nutritional intake"
+    ]
+  },
+  "absorption_notes": "Vitamin B2 is water-soluble and cannot be stored in the body. UV light can destroy riboflavin in foods, so proper storage away from direct sunlight is important.",
+  "synergistic_nutrients": [
+    "Vitamin B1",
+    "Vitamin B3",
+    "Vitamin B6",
+    "Iron",
+    "Other B-complex vitamins"
+  ],
+  "supports_conditions": [
+    "Energy Deficiency",
+    "Skin Health Support",
+    "Eye Health Support",
+    "Tissue Repair Support",
+    "Nervous System Support"
+  ],
+  "supportive_use_cases": [
+    "Energy metabolism support",
+    "Skin repair support",
+    "Eye health maintenance",
+    "Nervous system support",
+    "Cellular repair support"
+  ],
+  "related_symptoms": [
+    "Fatigue",
+    "Dry skin",
+    "Eye irritation",
+    "Light sensitivity",
+    "Cracked lips",
+    "Weakness"
+  ],
+  "interacts_with": [
+    "Vitamin B1",
+    "Vitamin B3",
+    "Vitamin B6",
+    "Iron",
+    "Other B-complex vitamins"
+  ],
+  "tags": [
+    "energy production",
+    "skin health",
+    "eye health",
+    "tissue repair",
+    "nervous system support"
+  ],
+  "metadata": {
+    "body_systems_supported": [
+      "Nervous System",
+      "Visual System",
+      "Integumentary System",
+      "Metabolic System",
+      "Cellular System"
+    ],
+    "essential": true,
+    "storage": "Not stored in the body; requires daily intake",
+    "care_type": "supportive",
+    "drug_recommendation_allowed": false,
+    "solubility": "Water-soluble"
+  },
+  "safety_notes": "Prefer obtaining from natural food sources. Excess from food is generally safe because excess amounts are excreted in urine."
+},
+{
+  "entity": "Vitamin B3",
+  "type": "Nutrient",
+  "category": "Vitamin",
+  "description": "Vitamin B3, also known as niacin, is an essential water-soluble vitamin that supports cellular energy production, nervous system stability, DNA repair, and the maintenance of healthy skin.",
+  "functions": [
+    "Supports energy production",
+    "Helps convert food into cellular energy",
+    "Maintains nervous system health",
+    "Maintains healthy skin",
+    "Supports DNA repair and cellular maintenance",
+    "Supports metabolic reactions"
+  ],
+  "primary_functions": [
+    "Supports cellular energy metabolism",
+    "Maintains nervous system stability",
+    "Supports DNA repair",
+    "Maintains skin integrity"
+  ],
+  "supportive_roles": [
+    "Supports recovery from metabolic stress",
+    "Helps maintain skin health",
+    "Supports nervous system function",
+    "Supports cellular repair processes",
+    "Supports recovery from fatigue"
+  ],
+  "target_systems": [
+    "nervous system",
+    "integumentary system",
+    "metabolic system",
+    "cellular system",
+    "genetic system"
+  ],
+  "deficiency_causes": [
+    "Niacin Deficiency",
+    "Pellagra",
+    "Impaired Energy Metabolism",
+    "Cellular Repair Impairment"
+  ],
+  "deficiency_effects": [
+    "Fatigue",
+    "Skin inflammation",
+    "Dermatitis",
+    "Weakness",
+    "Digestive disturbances",
+    "Mental confusion",
+    "Poor cellular repair"
+  ],
+  "excess_causes": [
+    "Niacin Toxicity from excessive supplementation",
+    "Liver Stress",
+    "Skin flushing"
+  ],
+  "food_sources": [
+    "Meat",
+    "Fish",
+    "Poultry",
+    "Eggs",
+    "Wheat flour",
+    "Whole grains",
+    "Nuts"
+  ],
+  "natural_sources": [
+    "meat",
+    "fish",
+    "poultry",
+    "whole grains",
+    "nuts",
+    "eggs"
+  ],
+  "recommended_daily_allowance": {
+    "adult_male": "16.5 mg",
+    "adult_female": "13.2 mg"
+  },
+  "absorption_factors": {
+    "enhanced_by": [
+      "Regular dietary intake",
+      "Balanced nutrition"
+    ],
+    "inhibited_by": [
+      "Poor nutrition",
+      "Chronic malnutrition"
+    ]
+  },
+  "absorption_notes": "Vitamin B3 is water-soluble and cannot be stored in the body, so regular daily intake is required. The body can also synthesize small amounts from the amino acid tryptophan.",
+  "synergistic_nutrients": [
+    "Vitamin B1",
+    "Vitamin B2",
+    "Vitamin B6",
+    "Tryptophan",
+    "Other B-complex vitamins"
+  ],
+  "supports_conditions": [
+    "Energy Deficiency",
+    "Skin Health Support",
+    "Nervous System Support",
+    "Cellular Repair Support",
+    "Metabolic Support"
+  ],
+  "supportive_use_cases": [
+    "Energy metabolism support",
+    "Skin repair support",
+    "Nervous system support",
+    "Cellular recovery support",
+    "Fatigue recovery support"
+  ],
+  "related_symptoms": [
+    "Fatigue",
+    "Skin inflammation",
+    "Weakness",
+    "Mental confusion",
+    "Poor skin health"
+  ],
+  "interacts_with": [
+    "Vitamin B1",
+    "Vitamin B2",
+    "Vitamin B6",
+    "Tryptophan",
+    "Other B-complex vitamins"
+  ],
+  "tags": [
+    "energy production",
+    "dna repair",
+    "skin health",
+    "nervous system support",
+    "cellular repair"
+  ],
+  "metadata": {
+    "body_systems_supported": [
+      "Nervous System",
+      "Integumentary System",
+      "Metabolic System",
+      "Cellular System",
+      "Genetic System"
+    ],
+    "essential": true,
+    "storage": "Not stored in the body; requires daily intake",
+    "care_type": "supportive",
+    "drug_recommendation_allowed": false,
+    "solubility": "Water-soluble"
+  },
+  "safety_notes": "Prefer obtaining from natural food sources. Excessive supplementation may cause skin flushing and liver stress, so supplementation should be approached cautiously."
+},
+{
+  "entity": "Vitamin B5",
+  "type": "Nutrient",
+  "category": "Vitamin",
+  "description": "Vitamin B5, also known as pantothenic acid, is an essential water-soluble vitamin that supports energy metabolism, fatty acid synthesis, and cellular metabolic processes necessary for growth, repair, and overall physiological function.",
+  "functions": [
+    "Supports energy production from food",
+    "Supports fatty acid synthesis",
+    "Supports metabolism of carbohydrates, proteins, and fats",
+    "Supports cellular metabolic function",
+    "Supports synthesis of coenzyme A",
+    "Supports cellular repair and growth"
+  ],
+  "primary_functions": [
+    "Supports cellular energy metabolism",
+    "Supports fatty acid synthesis",
+    "Supports metabolic enzyme function",
+    "Supports cellular repair and maintenance"
+  ],
+  "supportive_roles": [
+    "Supports recovery from metabolic stress",
+    "Supports energy stability",
+    "Supports tissue repair and regeneration",
+    "Supports metabolic efficiency",
+    "Supports cellular health"
+  ],
+  "target_systems": [
+    "metabolic system",
+    "cellular system",
+    "nervous system",
+    "integumentary system",
+    "muscular system"
+  ],
+  "deficiency_causes": [
+    "Pantothenic Acid Deficiency",
+    "Impaired Fatty Acid Metabolism",
+    "Impaired Cellular Energy Production"
+  ],
+  "deficiency_effects": [
+    "Fatigue",
+    "Weakness",
+    "Irritability",
+    "Metabolic inefficiency",
+    "Reduced cellular repair",
+    "Low energy levels"
+  ],
+  "excess_causes": [
+    "Excess intake from supplementation (rare due to water-soluble nature)"
+  ],
+  "food_sources": [
+    "Chicken",
+    "Beef",
+    "Liver",
+    "Kidneys",
+    "Eggs",
+    "Mushrooms",
+    "Avocado",
+    "Whole grains",
+    "Vegetables",
+    "Fortified breakfast cereals"
+  ],
+  "natural_sources": [
+    "meat",
+    "whole grains",
+    "vegetables",
+    "chicken",
+    "beef",
+    "eggs",
+    "mushrooms",
+    "avocado"
+  ],
+  "recommended_daily_allowance": {
+    "adult_male": "Not officially established (adequate intake met through diet)",
+    "adult_female": "Not officially established (adequate intake met through diet)"
+  },
+  "absorption_factors": {
+    "enhanced_by": [
+      "Regular balanced diet",
+      "Healthy digestive function"
+    ],
+    "inhibited_by": [
+      "Poor nutrition",
+      "Chronic malnutrition"
+    ]
+  },
+  "absorption_notes": "Vitamin B5 is water-soluble and cannot be stored in the body, so regular dietary intake is required. It plays a key role in coenzyme A production, which is essential for metabolic reactions.",
+  "synergistic_nutrients": [
+    "Vitamin B1",
+    "Vitamin B2",
+    "Vitamin B3",
+    "Vitamin B6",
+    "Other B-complex vitamins"
+  ],
+  "supports_conditions": [
+    "Energy Deficiency",
+    "Metabolic Support",
+    "Fatigue Support",
+    "Cellular Repair Support"
+  ],
+  "supportive_use_cases": [
+    "Energy metabolism support",
+    "Fatigue recovery support",
+    "Metabolic support",
+    "Cellular repair support",
+    "General metabolic health support"
+  ],
+  "related_symptoms": [
+    "Fatigue",
+    "Weakness",
+    "Low energy",
+    "Metabolic imbalance",
+    "Reduced endurance"
+  ],
+  "interacts_with": [
+    "Vitamin B1",
+    "Vitamin B2",
+    "Vitamin B3",
+    "Vitamin B6",
+    "Other B-complex vitamins"
+  ],
+  "tags": [
+    "energy metabolism",
+    "fatty acid synthesis",
+    "metabolic support",
+    "cellular repair",
+    "fatigue support"
+  ],
+  "metadata": {
+    "body_systems_supported": [
+      "Metabolic System",
+      "Cellular System",
+      "Nervous System",
+      "Muscular System"
+    ],
+    "essential": true,
+    "storage": "Not stored in the body; requires daily intake",
+    "care_type": "supportive",
+    "drug_recommendation_allowed": false,
+    "solubility": "Water-soluble"
+  },
+  "safety_notes": "Vitamin B5 is generally safe when obtained from natural food sources. Excess intake from food is typically excreted and does not accumulate."
+},
+{
+  "entity": "Vitamin B6",
+  "type": "Nutrient",
+  "category": "Vitamin",
+  "description": "Vitamin B6, also known as pyridoxine, is an essential water-soluble vitamin that supports protein metabolism, hemoglobin formation, neurotransmitter synthesis, and immune system function.",
+  "functions": [
+    "Supports metabolism of proteins and carbohydrates",
+    "Supports energy production",
+    "Supports hemoglobin formation",
+    "Supports oxygen transport in the blood",
+    "Supports neurotransmitter synthesis",
+    "Supports immune system function",
+    "Supports nervous system health"
+  ],
+  "primary_functions": [
+    "Supports neurotransmitter synthesis",
+    "Supports hemoglobin production",
+    "Supports protein metabolism",
+    "Supports immune system stability"
+  ],
+  "supportive_roles": [
+    "Supports nervous system function",
+    "Supports oxygen transport efficiency",
+    "Supports immune defense mechanisms",
+    "Supports recovery from fatigue",
+    "Supports brain function and neurological stability"
+  ],
+  "target_systems": [
+    "nervous system",
+    "immune system",
+    "circulatory system",
+    "metabolic system",
+    "cellular system"
+  ],
+  "deficiency_causes": [
+    "Vitamin B6 Deficiency",
+    "Impaired Hemoglobin Production",
+    "Impaired Neurotransmitter Production",
+    "Impaired Immune Function"
+  ],
+  "deficiency_effects": [
+    "Fatigue",
+    "Weakness",
+    "Anemia",
+    "Depression",
+    "Irritability",
+    "Weakened immune function",
+    "Nerve dysfunction"
+  ],
+  "excess_causes": [
+    "Vitamin B6 Toxicity from excessive supplementation",
+    "Peripheral Neuropathy",
+    "Nerve Damage"
+  ],
+  "food_sources": [
+    "Pork",
+    "Poultry",
+    "Chicken",
+    "Turkey",
+    "Fish",
+    "Peanuts",
+    "Soya beans",
+    "Wheatgerm",
+    "Oats",
+    "Bananas",
+    "Milk",
+    "Fortified breakfast cereals"
+  ],
+  "natural_sources": [
+    "poultry",
+    "fish",
+    "bananas",
+    "potatoes",
+    "peanuts",
+    "whole grains",
+    "milk",
+    "soya beans"
+  ],
+  "recommended_daily_allowance": {
+    "adult_male": "1.4 mg",
+    "adult_female": "1.2 mg"
+  },
+  "absorption_factors": {
+    "enhanced_by": [
+      "Healthy digestive function",
+      "Balanced nutrition"
+    ],
+    "inhibited_by": [
+      "Poor nutrition",
+      "Chronic illness affecting absorption"
+    ]
+  },
+  "absorption_notes": "Vitamin B6 is water-soluble and cannot be stored in large amounts in the body, so regular intake is required. Gut bacteria can also produce small amounts. Excessive supplementation may cause nerve damage.",
+  "synergistic_nutrients": [
+    "Vitamin B1",
+    "Vitamin B2",
+    "Vitamin B3",
+    "Vitamin B12",
+    "Folate (Vitamin B9)",
+    "Iron"
+  ],
+  "supports_conditions": [
+    "Anemia Support",
+    "Immune System Support",
+    "Nervous System Support",
+    "Energy Metabolism Support",
+    "Cognitive Support"
+  ],
+  "supportive_use_cases": [
+    "Immune support during infections",
+    "Anemia supportive care",
+    "Nervous system support",
+    "Fatigue recovery support",
+    "Brain and cognitive support"
+  ],
+  "related_symptoms": [
+    "Fatigue",
+    "Weakness",
+    "Anemia",
+    "Depression",
+    "Irritability",
+    "Numbness",
+    "Weakened immunity"
+  ],
+  "interacts_with": [
+    "Iron",
+    "Vitamin B12",
+    "Folate",
+    "Other B-complex vitamins"
+  ],
+  "tags": [
+    "neurotransmitter synthesis",
+    "immune support",
+    "hemoglobin production",
+    "brain health",
+    "energy metabolism"
+  ],
+  "metadata": {
+    "body_systems_supported": [
+      "Nervous System",
+      "Immune System",
+      "Circulatory System",
+      "Metabolic System",
+      "Cellular System"
+    ],
+    "essential": true,
+    "storage": "Limited storage; requires regular intake",
+    "care_type": "supportive",
+    "drug_recommendation_allowed": false,
+    "solubility": "Water-soluble"
+  },
+  "safety_notes": "Prefer natural food sources. Excessive supplementation may cause peripheral neuropathy and nerve damage, especially at high doses over long periods."
+},
+{
+  "entity": "Vitamin B7",
+  "type": "Nutrient",
+  "category": "Vitamin",
+  "description": "Vitamin B7, also known as biotin, is an essential water-soluble vitamin that supports fatty acid synthesis, energy metabolism, and the maintenance of healthy skin, hair, and cellular function.",
+  "functions": [
+    "Supports fatty acid synthesis",
+    "Supports metabolism of carbohydrates, fats, and proteins",
+    "Supports cellular energy production",
+    "Supports skin health maintenance",
+    "Supports metabolic enzyme function"
+  ],
+  "primary_functions": [
+    "Supports fatty acid metabolism",
+    "Supports cellular energy metabolism",
+    "Supports skin and tissue health",
+    "Supports metabolic processes"
+  ],
+  "supportive_roles": [
+    "Supports skin integrity and repair",
+    "Supports metabolic stability",
+    "Supports energy production",
+    "Supports cellular growth and maintenance",
+    "Supports nervous system stability"
+  ],
+  "target_systems": [
+    "integumentary system",
+    "metabolic system",
+    "cellular system",
+    "nervous system"
+  ],
+  "deficiency_causes": [
+    "Biotin Deficiency",
+    "Impaired Fatty Acid Metabolism",
+    "Metabolic Dysfunction"
+  ],
+  "deficiency_effects": [
+    "Skin problems",
+    "Hair thinning",
+    "Fatigue",
+    "Weakness",
+    "Metabolic imbalance",
+    "Poor skin integrity"
+  ],
+  "excess_causes": [
+    "Excess intake from supplementation (effects not clearly established)"
+  ],
+  "food_sources": [
+    "Eggs",
+    "Liver",
+    "Nuts",
+    "Sweet potatoes",
+    "Whole grains",
+    "Vegetables"
+  ],
+  "natural_sources": [
+    "nuts",
+    "eggs",
+    "liver",
+    "sweet potatoes",
+    "whole grains",
+    "vegetables"
+  ],
+  "recommended_daily_allowance": {
+    "adult_male": "Not officially established (small amounts required)",
+    "adult_female": "Not officially established (small amounts required)"
+  },
+  "absorption_factors": {
+    "enhanced_by": [
+      "Healthy gut microbiota",
+      "Balanced nutrition"
+    ],
+    "inhibited_by": [
+      "Gut microbiome imbalance",
+      "Poor nutrition"
+    ]
+  },
+  "absorption_notes": "Vitamin B7 is water-soluble and required in small amounts. Gut bacteria naturally produce biotin, but dietary intake helps maintain optimal levels.",
+  "synergistic_nutrients": [
+    "Vitamin B5",
+    "Vitamin B6",
+    "Other B-complex vitamins"
+  ],
+  "supports_conditions": [
+    "Skin Health Support",
+    "Metabolic Support",
+    "Energy Support",
+    "Cellular Health Support"
+  ],
+  "supportive_use_cases": [
+    "Skin repair support",
+    "Metabolic support",
+    "Energy metabolism support",
+    "Cellular maintenance support"
+  ],
+  "related_symptoms": [
+    "Skin problems",
+    "Fatigue",
+    "Weakness",
+    "Hair thinning",
+    "Metabolic imbalance"
+  ],
+  "interacts_with": [
+    "Vitamin B5",
+    "Vitamin B6",
+    "Other B-complex vitamins"
+  ],
+  "tags": [
+    "fatty acid synthesis",
+    "skin health",
+    "metabolic support",
+    "energy metabolism",
+    "cellular health"
+  ],
+  "metadata": {
+    "body_systems_supported": [
+      "Integumentary System",
+      "Metabolic System",
+      "Cellular System",
+      "Nervous System"
+    ],
+    "essential": true,
+    "storage": "Not stored in large amounts; requires regular intake",
+    "care_type": "supportive",
+    "drug_recommendation_allowed": false,
+    "solubility": "Water-soluble"
+  },
+  "safety_notes": "Biotin is generally safe when obtained from natural food sources. The body and gut bacteria produce small amounts, and excess is typically excreted."
+},
+{
+  "entity": "Vitamin B9",
+  "type": "Nutrient",
+  "category": "Vitamin",
+  "description": "Vitamin B9, also known as folate (natural form) or folic acid (synthetic form), is an essential water-soluble vitamin that supports DNA synthesis, red blood cell formation, cell division, and nervous system development.",
+  "functions": [
+    "Supports DNA synthesis",
+    "Supports cell division and growth",
+    "Supports formation of healthy red blood cells",
+    "Supports nervous system development",
+    "Supports genetic material stability",
+    "Supports cellular repair and regeneration"
+  ],
+  "primary_functions": [
+    "Supports red blood cell formation",
+    "Supports DNA synthesis and repair",
+    "Supports cellular division and growth",
+    "Supports nervous system development"
+  ],
+  "supportive_roles": [
+    "Supports prevention of anemia",
+    "Supports cellular regeneration",
+    "Supports nervous system health",
+    "Supports tissue repair",
+    "Supports immune system function"
+  ],
+  "target_systems": [
+    "circulatory system",
+    "nervous system",
+    "cellular system",
+    "immune system",
+    "genetic system"
+  ],
+  "deficiency_causes": [
+    "Folate Deficiency",
+    "Folate Deficiency Anemia",
+    "Impaired DNA Synthesis",
+    "Impaired Cell Division"
+  ],
+  "deficiency_effects": [
+    "Anemia",
+    "Fatigue",
+    "Weakness",
+    "Poor cellular repair",
+    "Impaired immune function",
+    "Neurological dysfunction"
+  ],
+  "excess_causes": [
+    "Excess folic acid supplementation",
+    "Masking of Vitamin B12 deficiency",
+    "Potential nervous system damage if B12 deficiency is undetected"
+  ],
+  "food_sources": [
+    "Broccoli",
+    "Brussels sprouts",
+    "Spinach",
+    "Kale",
+    "Cabbage",
+    "Spring greens",
+    "Peas",
+    "Chickpeas",
+    "Kidney beans",
+    "Liver",
+    "Fortified breakfast cereals"
+  ],
+  "natural_sources": [
+    "leafy green vegetables",
+    "legumes",
+    "spinach",
+    "broccoli",
+    "peas",
+    "beans",
+    "fortified cereals"
+  ],
+  "recommended_daily_allowance": {
+    "adult_male": "200 µg",
+    "adult_female": "200 µg"
+  },
+  "absorption_factors": {
+    "enhanced_by": [
+      "Healthy digestive function",
+      "Balanced nutrition"
+    ],
+    "inhibited_by": [
+      "Poor nutrition",
+      "Digestive disorders",
+      "Vitamin B12 deficiency"
+    ]
+  },
+  "absorption_notes": "Vitamin B9 is water-soluble and not stored in large amounts, requiring regular dietary intake. Synthetic folic acid is more easily absorbed than natural folate.",
+  "synergistic_nutrients": [
+    "Vitamin B12",
+    "Vitamin B6",
+    "Iron",
+    "Vitamin C"
+  ],
+  "supports_conditions": [
+    "Anemia Support",
+    "Cellular Repair Support",
+    "Immune System Support",
+    "Nervous System Support",
+    "DNA Repair Support"
+  ],
+  "supportive_use_cases": [
+    "Supportive care for anemia",
+    "Support during recovery from illness",
+    "Support for immune system strengthening",
+    "Support for cellular repair and regeneration",
+    "Support for nervous system health"
+  ],
+  "related_symptoms": [
+    "Fatigue",
+    "Weakness",
+    "Anemia",
+    "Poor recovery",
+    "Weakened immunity",
+    "Neurological symptoms"
+  ],
+  "interacts_with": [
+    "Vitamin B12",
+    "Vitamin B6",
+    "Iron",
+    "Vitamin C"
+  ],
+  "tags": [
+    "DNA synthesis",
+    "cell division",
+    "anemia support",
+    "immune support",
+    "cellular repair"
+  ],
+  "metadata": {
+    "body_systems_supported": [
+      "Circulatory System",
+      "Nervous System",
+      "Cellular System",
+      "Immune System",
+      "Genetic System"
+    ],
+    "essential": true,
+    "storage": "Limited storage; requires regular intake",
+    "care_type": "supportive",
+    "drug_recommendation_allowed": false,
+    "solubility": "Water-soluble"
+  },
+  "safety_notes": "Prefer natural food sources. Excessive folic acid supplementation may mask Vitamin B12 deficiency and delay proper diagnosis."
+},
+{
+  "entity": "Vitamin B12",
+  "type": "Nutrient",
+  "category": "Vitamin",
+  "description": "Vitamin B12, also known as cobalamin, is an essential water-soluble vitamin that supports red blood cell formation, prevents anemia, maintains nervous system health, supports DNA synthesis, and helps the body release energy from food.",
+  "functions": [
+    "Supports red blood cell formation",
+    "Prevents Vitamin B12 deficiency anemia",
+    "Maintains nervous system health",
+    "Supports DNA synthesis",
+    "Supports energy release from food",
+    "Supports proper utilization of folate"
+  ],
+  "primary_functions": [
+    "Supports prevention of anemia",
+    "Supports nervous system function",
+    "Supports red blood cell production",
+    "Supports DNA synthesis and cellular health"
+  ],
+  "supportive_roles": [
+    "Supports recovery from anemia",
+    "Supports oxygen transport through healthy red blood cells",
+    "Supports nerve protection and function",
+    "Supports energy metabolism",
+    "Supports neurological stability"
+  ],
+  "target_systems": [
+    "circulatory system",
+    "nervous system",
+    "cellular system",
+    "metabolic system"
+  ],
+  "deficiency_causes": [
+    "Vitamin B12 Deficiency",
+    "Vitamin B12 Deficiency Anemia",
+    "Impaired Red Blood Cell Production",
+    "Neurological Dysfunction"
+  ],
+  "deficiency_effects": [
+    "Anemia",
+    "Fatigue",
+    "Weakness",
+    "Pale skin",
+    "Shortness of breath",
+    "Nerve damage",
+    "Tingling or numbness in hands and feet",
+    "Poor energy levels"
+  ],
+  "excess_causes": [
+    "Excess supplementation (effects not clearly established)"
+  ],
+  "food_sources": [
+    "Meat",
+    "Fish",
+    "Milk",
+    "Cheese",
+    "Eggs",
+    "Fortified breakfast cereals"
+  ],
+  "natural_sources": [
+    "animal products",
+    "meat",
+    "fish",
+    "dairy products",
+    "eggs",
+    "fortified foods"
+  ],
+  "recommended_daily_allowance": {
+    "adult_male": "1.5 µg",
+    "adult_female": "1.5 µg"
+  },
+  "absorption_factors": {
+    "enhanced_by": [
+      "Healthy stomach function",
+      "Intrinsic factor production",
+      "Balanced nutrition"
+    ],
+    "inhibited_by": [
+      "Digestive disorders",
+      "Poor nutrition",
+      "Lack of intrinsic factor",
+      "Strict vegan diet without fortified foods"
+    ]
+  },
+  "absorption_notes": "Vitamin B12 absorption requires intrinsic factor produced in the stomach. It is primarily obtained from animal-based foods or fortified foods.",
+  "synergistic_nutrients": [
+    "Vitamin B9",
+    "Iron",
+    "Vitamin B6",
+    "Vitamin C"
+  ],
+  "supports_conditions": [
+    "Vitamin B12 Deficiency Anemia",
+    "General Anemia Support",
+    "Nervous System Support",
+    "Energy Deficiency Support",
+    "Neurological Support"
+  ],
+  "supportive_use_cases": [
+    "Supportive care for anemia recovery",
+    "Support for fatigue and weakness",
+    "Support for nerve health",
+    "Support for energy metabolism",
+    "Support for oxygen transport"
+  ],
+  "related_symptoms": [
+    "Fatigue",
+    "Weakness",
+    "Pale skin",
+    "Shortness of breath",
+    "Numbness",
+    "Tingling sensation",
+    "Low energy"
+  ],
+  "interacts_with": [
+    "Vitamin B9",
+    "Iron",
+    "Vitamin B6"
+  ],
+  "tags": [
+    "anemia support",
+    "red blood cell formation",
+    "nerve function",
+    "energy metabolism",
+    "oxygen transport"
+  ],
+  "metadata": {
+    "body_systems_supported": [
+      "Circulatory System",
+      "Nervous System",
+      "Cellular System",
+      "Metabolic System"
+    ],
+    "essential": true,
+    "storage": "Stored in the liver for long-term use",
+    "care_type": "supportive",
+    "drug_recommendation_allowed": false,
+    "solubility": "Water-soluble",
+    "critical_for_anemia": true
+  },
+  "safety_notes": "Vitamin B12 is generally safe when obtained from natural food sources. Deficiency is more common in individuals who avoid animal products or have absorption issues."
+},
+{
+  "entity": "Vitamin C",
+  "type": "Nutrient",
+  "category": "Vitamin",
+  "description": "Vitamin C, also known as ascorbic acid, is an essential water-soluble vitamin that protects cells from oxidative damage, supports immune system function, promotes collagen production, maintains healthy skin, blood vessels, bones, and cartilage, and supports wound healing.",
+  "functions": [
+    "Supports collagen production",
+    "Supports immune system function",
+    "Protects cells from oxidative damage",
+    "Supports wound healing",
+    "Maintains healthy skin",
+    "Maintains healthy blood vessels",
+    "Maintains healthy bones and cartilage"
+  ],
+  "primary_functions": [
+    "Supports immune defense against infections",
+    "Supports collagen synthesis and tissue repair",
+    "Supports antioxidant protection",
+    "Supports skin and structural tissue health"
+  ],
+  "supportive_roles": [
+    "Supports recovery from infections",
+    "Supports faster wound healing",
+    "Supports protection against cellular damage",
+    "Supports blood vessel integrity",
+    "Supports overall tissue maintenance"
+  ],
+  "target_systems": [
+    "immune system",
+    "integumentary system",
+    "circulatory system",
+    "cellular system",
+    "skeletal system"
+  ],
+  "deficiency_causes": [
+    "Vitamin C Deficiency",
+    "Poor dietary intake",
+    "Malnutrition",
+    "Insufficient intake of fruits and vegetables"
+  ],
+  "deficiency_effects": [
+    "Scurvy",
+    "Weak immune function",
+    "Fatigue",
+    "Bleeding gums",
+    "Poor wound healing",
+    "Joint pain",
+    "Skin problems"
+  ],
+  "excess_causes": [
+    "Excess supplementation",
+    "High-dose vitamin C supplements"
+  ],
+  "food_sources": [
+    "Citrus fruits",
+    "Oranges",
+    "Orange juice",
+    "Strawberries",
+    "Blackcurrants",
+    "Peppers",
+    "Broccoli",
+    "Brussels sprouts",
+    "Potatoes"
+  ],
+  "natural_sources": [
+    "fruits",
+    "citrus fruits",
+    "berries",
+    "vegetables",
+    "leafy vegetables"
+  ],
+  "recommended_daily_allowance": {
+    "adult_male": "40 mg",
+    "adult_female": "40 mg"
+  },
+  "absorption_factors": {
+    "enhanced_by": [
+      "Regular dietary intake",
+      "Balanced nutrition",
+      "Healthy digestive system"
+    ],
+    "inhibited_by": [
+      "Poor diet",
+      "Malnutrition",
+      "Digestive disorders"
+    ]
+  },
+  "absorption_notes": "Vitamin C is water-soluble and cannot be stored in significant amounts in the body. Regular dietary intake is required to maintain adequate levels.",
+  "synergistic_nutrients": [
+    "Iron",
+    "Vitamin E",
+    "Vitamin A",
+    "Zinc"
+  ],
+  "supports_conditions": [
+    "Immune system weakness",
+    "Delayed wound healing",
+    "Skin damage",
+    "Vitamin C deficiency",
+    "Scurvy",
+    "Infection recovery support"
+  ],
+  "supportive_use_cases": [
+    "Supportive care during infections",
+    "Support for immune system strengthening",
+    "Support for wound healing",
+    "Support for skin repair",
+    "Support for antioxidant protection"
+  ],
+  "related_symptoms": [
+    "Fatigue",
+    "Weak immunity",
+    "Frequent infections",
+    "Bleeding gums",
+    "Slow wound healing",
+    "Skin problems"
+  ],
+  "interacts_with": [
+    "Iron",
+    "Vitamin E",
+    "Vitamin A",
+    "Zinc"
+  ],
+  "tags": [
+    "immune support",
+    "collagen production",
+    "antioxidant",
+    "wound healing",
+    "infection support",
+    "skin health"
+  ],
+  "metadata": {
+    "body_systems_supported": [
+      "Immune System",
+      "Circulatory System",
+      "Integumentary System",
+      "Cellular System",
+      "Skeletal System"
+    ],
+    "essential": true,
+    "storage": "Not stored in significant amounts; requires regular intake",
+    "care_type": "supportive",
+    "drug_recommendation_allowed": false,
+    "solubility": "Water-soluble",
+    "critical_for_anemia": false
+  },
+  "safety_notes": "Vitamin C is generally safe when consumed from natural food sources. Excessive supplementation above 1000 mg per day may cause digestive discomfort such as stomach pain, diarrhea, and flatulence."
+},
+{
+  "entity": "Vitamin D",
+  "type": "Nutrient",
+  "category": "Vitamin",
+  "description": "Vitamin D is an essential fat-soluble vitamin that regulates calcium and phosphate balance in the body, supports bone and teeth strength, enhances muscle function, and supports immune system function. It is uniquely synthesized in the skin through sunlight exposure and also obtained from certain foods and supplements.",
+  "functions": [
+    "Regulates calcium absorption",
+    "Regulates phosphate balance",
+    "Supports bone mineralization",
+    "Supports teeth strength",
+    "Supports muscle function",
+    "Supports immune system function",
+    "Supports skeletal development and maintenance"
+  ],
+  "primary_functions": [
+    "Supports bone health and strength",
+    "Supports calcium and phosphate regulation",
+    "Supports immune system defense",
+    "Supports muscle health and function"
+  ],
+  "supportive_roles": [
+    "Supports prevention of bone disorders",
+    "Supports skeletal integrity",
+    "Supports immune response against infections",
+    "Supports proper mineral metabolism",
+    "Supports neuromuscular stability"
+  ],
+  "target_systems": [
+    "skeletal system",
+    "muscular system",
+    "immune system",
+    "metabolic system",
+    "cellular system"
+  ],
+  "deficiency_causes": [
+    "Vitamin D Deficiency",
+    "Insufficient sunlight exposure",
+    "Poor dietary intake",
+    "Malabsorption disorders",
+    "Limited outdoor exposure"
+  ],
+  "deficiency_effects": [
+    "Rickets in children",
+    "Osteomalacia in adults",
+    "Bone pain",
+    "Weak bones",
+    "Muscle weakness",
+    "Increased fracture risk",
+    "Weak immune function"
+  ],
+  "excess_causes": [
+    "Excess supplementation",
+    "High-dose Vitamin D supplements"
+  ],
+  "food_sources": [
+    "Fatty fish",
+    "Salmon",
+    "Sardines",
+    "Mackerel",
+    "Trout",
+    "Red meat",
+    "Egg yolks",
+    "Fortified breakfast cereals",
+    "Fortified fat spreads",
+    "Liver"
+  ],
+  "natural_sources": [
+    "Sunlight exposure",
+    "fatty fish",
+    "animal products",
+    "egg yolks",
+    "fortified foods"
+  ],
+  "recommended_daily_allowance": {
+    "adult_male": "10 µg (400 IU)",
+    "adult_female": "10 µg (400 IU)"
+  },
+  "absorption_factors": {
+    "enhanced_by": [
+      "Sunlight exposure",
+      "Healthy digestive system",
+      "Presence of dietary fats",
+      "Balanced nutrition"
+    ],
+    "inhibited_by": [
+      "Limited sunlight exposure",
+      "Indoor lifestyle",
+      "Digestive disorders",
+      "Poor nutrition"
+    ]
+  },
+  "absorption_notes": "Vitamin D is synthesized in the skin through sunlight exposure and absorbed from dietary sources. Being fat-soluble, it requires dietary fat for optimal absorption and can be stored in body tissues.",
+  "synergistic_nutrients": [
+    "Calcium",
+    "Phosphorus",
+    "Magnesium",
+    "Vitamin K"
+  ],
+  "supports_conditions": [
+    "Vitamin D Deficiency",
+    "Bone weakness",
+    "Osteomalacia",
+    "Rickets",
+    "Muscle weakness",
+    "Immune system weakness"
+  ],
+  "supportive_use_cases": [
+    "Supportive care for bone strengthening",
+    "Support for immune system function",
+    "Support for muscle health",
+    "Support for skeletal development",
+    "Support for mineral balance"
+  ],
+  "related_symptoms": [
+    "Bone pain",
+    "Muscle weakness",
+    "Frequent fractures",
+    "Fatigue",
+    "Weak immune response"
+  ],
+  "interacts_with": [
+    "Calcium",
+    "Phosphorus",
+    "Magnesium",
+    "Vitamin K"
+  ],
+  "tags": [
+    "bone health",
+    "calcium absorption",
+    "immune support",
+    "muscle function",
+    "sunlight vitamin",
+    "skeletal support"
+  ],
+  "metadata": {
+    "body_systems_supported": [
+      "Skeletal System",
+      "Immune System",
+      "Muscular System",
+      "Metabolic System",
+      "Cellular System"
+    ],
+    "essential": true,
+    "storage": "Stored in fat tissues and liver for long-term use",
+    "care_type": "supportive",
+    "drug_recommendation_allowed": false,
+    "solubility": "Fat-soluble",
+    "critical_for_anemia": false
+  },
+  "safety_notes": "Vitamin D is safe when obtained from sunlight and dietary sources. Excessive supplementation above 100 µg (4000 IU) per day can cause hypercalcemia, leading to kidney damage, heart problems, and bone weakening."
+},
+{
+  "entity": "Vitamin E",
+  "type": "Nutrient",
+  "category": "Vitamin",
+  "description": "Vitamin E is an essential fat-soluble antioxidant that helps protect cells from oxidative damage, maintains healthy skin and eyes, and strengthens the immune system. It plays a critical role in protecting cellular membranes and supporting immune defense mechanisms.",
+  "functions": [
+    "Protects cells from oxidative stress",
+    "Supports immune system function",
+    "Maintains healthy skin",
+    "Maintains healthy eyes",
+    "Supports cellular integrity",
+    "Protects cell membranes from damage"
+  ],
+  "primary_functions": [
+    "Supports antioxidant protection",
+    "Supports immune system defense",
+    "Supports skin health",
+    "Supports cellular protection"
+  ],
+  "supportive_roles": [
+    "Supports protection against oxidative damage",
+    "Supports immune resilience",
+    "Supports skin repair and maintenance",
+    "Supports eye health",
+    "Supports cellular stability"
+  ],
+  "target_systems": [
+    "immune system",
+    "integumentary system",
+    "visual system",
+    "cellular system"
+  ],
+  "deficiency_causes": [
+    "Vitamin E Deficiency",
+    "Fat malabsorption disorders",
+    "Poor dietary intake"
+  ],
+  "deficiency_effects": [
+    "Weakened immune response",
+    "Increased oxidative stress",
+    "Muscle weakness",
+    "Vision problems",
+    "Nerve damage (rare cases)"
+  ],
+  "excess_causes": [
+    "Excess supplementation (effects not clearly established)"
+  ],
+  "food_sources": [
+    "Plant oils",
+    "Sunflower oil",
+    "Olive oil",
+    "Corn oil",
+    "Soybean oil",
+    "Nuts",
+    "Almonds",
+    "Peanuts",
+    "Seeds",
+    "Sunflower seeds",
+    "Wheatgerm",
+    "Spinach",
+    "Fortified cereals"
+  ],
+  "natural_sources": [
+    "plant oils",
+    "nuts",
+    "seeds",
+    "whole grains",
+    "leafy green vegetables"
+  ],
+  "recommended_daily_allowance": {
+    "adult_male": "4 mg",
+    "adult_female": "3 mg"
+  },
+  "absorption_factors": {
+    "enhanced_by": [
+      "Presence of dietary fats",
+      "Healthy digestive function",
+      "Balanced nutrition"
+    ],
+    "inhibited_by": [
+      "Fat malabsorption disorders",
+      "Digestive disorders",
+      "Poor dietary intake"
+    ]
+  },
+  "absorption_notes": "Vitamin E is a fat-soluble vitamin that requires dietary fat for proper absorption and can be stored in body tissues for future use.",
+  "synergistic_nutrients": [
+    "Vitamin C",
+    "Vitamin A",
+    "Selenium",
+    "Healthy fats"
+  ],
+  "supports_conditions": [
+    "Immune system weakness",
+    "Oxidative stress",
+    "Skin health support",
+    "Cellular damage support"
+  ],
+  "supportive_use_cases": [
+    "Supportive care for immune defense",
+    "Support for skin health",
+    "Support for antioxidant protection",
+    "Support for cellular protection",
+    "Support for recovery from oxidative stress"
+  ],
+  "related_symptoms": [
+    "Weak immune response",
+    "Dry skin",
+    "Muscle weakness",
+    "Vision disturbances"
+  ],
+  "interacts_with": [
+    "Vitamin C",
+    "Vitamin A",
+    "Selenium"
+  ],
+  "tags": [
+    "antioxidant",
+    "immune support",
+    "skin health",
+    "cell protection",
+    "oxidative stress protection"
+  ],
+  "metadata": {
+    "body_systems_supported": [
+      "Immune System",
+      "Integumentary System",
+      "Visual System",
+      "Cellular System"
+    ],
+    "essential": true,
+    "storage": "Stored in fat tissues and liver for future use",
+    "care_type": "supportive",
+    "drug_recommendation_allowed": false,
+    "solubility": "Fat-soluble",
+    "critical_for_anemia": false
+  },
+  "safety_notes": "Vitamin E is safe when obtained from natural food sources. Excess supplementation effects are not clearly established, but extremely high doses may interfere with normal blood clotting."
+},
+{
+  "entity": "Vitamin K",
+  "type": "Nutrient",
+  "category": "Vitamin",
+  "description": "Vitamin K is an essential fat-soluble vitamin that plays a critical role in blood clotting, wound healing, and bone health. It helps activate proteins required for proper coagulation and supports bone strength by regulating calcium utilization.",
+  "functions": [
+    "Supports blood clotting",
+    "Supports wound healing",
+    "Supports bone health",
+    "Supports calcium regulation",
+    "Activates clotting proteins",
+    "Supports vascular health"
+  ],
+  "primary_functions": [
+    "Supports blood coagulation",
+    "Supports wound healing",
+    "Supports bone strength",
+    "Supports calcium metabolism"
+  ],
+  "supportive_roles": [
+    "Supports healing of injuries and wounds",
+    "Supports prevention of excessive bleeding",
+    "Supports bone mineralization",
+    "Supports vascular integrity",
+    "Supports recovery from injury"
+  ],
+  "target_systems": [
+    "circulatory system",
+    "skeletal system",
+    "vascular system",
+    "cellular system"
+  ],
+  "deficiency_causes": [
+    "Vitamin K Deficiency",
+    "Poor dietary intake",
+    "Fat malabsorption disorders",
+    "Digestive disorders"
+  ],
+  "deficiency_effects": [
+    "Delayed blood clotting",
+    "Excessive bleeding",
+    "Easy bruising",
+    "Poor wound healing",
+    "Reduced bone strength"
+  ],
+  "excess_causes": [
+    "Excess supplementation (effects not clearly established)"
+  ],
+  "food_sources": [
+    "Spinach",
+    "Kale",
+    "Broccoli",
+    "Brussels sprouts",
+    "Green leafy vegetables",
+    "Vegetable oils",
+    "Cereal grains",
+    "Meat",
+    "Dairy products"
+  ],
+  "natural_sources": [
+    "leafy green vegetables",
+    "cruciferous vegetables",
+    "vegetable oils",
+    "whole grains",
+    "animal products"
+  ],
+  "recommended_daily_allowance": {
+    "adult_male": "1 µg per kg body weight",
+    "adult_female": "1 µg per kg body weight"
+  },
+  "absorption_factors": {
+    "enhanced_by": [
+      "Dietary fats",
+      "Healthy digestive function",
+      "Balanced nutrition"
+    ],
+    "inhibited_by": [
+      "Fat malabsorption disorders",
+      "Digestive disorders",
+      "Poor dietary intake"
+    ]
+  },
+  "absorption_notes": "Vitamin K is a fat-soluble vitamin that requires dietary fats for proper absorption and is stored in the liver for future use.",
+  "synergistic_nutrients": [
+    "Vitamin D",
+    "Calcium",
+    "Magnesium",
+    "Healthy fats"
+  ],
+  "supports_conditions": [
+    "Delayed wound healing",
+    "Bleeding disorders support",
+    "Bone health support",
+    "Bone weakness support"
+  ],
+  "supportive_use_cases": [
+    "Supportive care for wound healing",
+    "Support for proper blood clotting",
+    "Support for bone strength",
+    "Support for injury recovery",
+    "Support for vascular health"
+  ],
+  "related_symptoms": [
+    "Easy bruising",
+    "Excessive bleeding",
+    "Slow wound healing",
+    "Weak bones"
+  ],
+  "interacts_with": [
+    "Vitamin D",
+    "Calcium",
+    "Magnesium"
+  ],
+  "tags": [
+    "blood clotting",
+    "wound healing",
+    "bone health",
+    "calcium regulation",
+    "injury recovery"
+  ],
+  "metadata": {
+    "body_systems_supported": [
+      "Circulatory System",
+      "Skeletal System",
+      "Vascular System",
+      "Cellular System"
+    ],
+    "essential": true,
+    "storage": "Stored in the liver for future use",
+    "care_type": "supportive",
+    "drug_recommendation_allowed": false,
+    "solubility": "Fat-soluble",
+    "critical_for_anemia": false
+  },
+  "safety_notes": "Vitamin K is generally safe when obtained from natural food sources. Excess supplementation effects are not clearly established."
+},
+{
+  "entity": "Calcium",
+  "type": "Nutrient",
+  "category": "Mineral",
+  "description": "Calcium is an essential mineral that plays a critical role in building and maintaining strong bones and teeth, regulating muscle contractions including heart function, supporting blood clotting, and enabling proper nerve signaling.",
+  "functions": [
+    "Supports bone formation and strength",
+    "Supports teeth health",
+    "Regulates muscle contractions",
+    "Supports heart muscle function",
+    "Supports blood clotting",
+    "Supports nerve signal transmission"
+  ],
+  "primary_functions": [
+    "Supports bone health and skeletal integrity",
+    "Supports muscle contraction and heart function",
+    "Supports blood clotting",
+    "Supports nervous system signaling"
+  ],
+  "supportive_roles": [
+    "Supports prevention of bone weakness",
+    "Supports prevention of osteoporosis and osteomalacia",
+    "Supports muscle performance",
+    "Supports cardiovascular function",
+    "Supports injury recovery and healing"
+  ],
+  "target_systems": [
+    "skeletal system",
+    "muscular system",
+    "circulatory system",
+    "nervous system",
+    "cardiovascular system"
+  ],
+  "deficiency_causes": [
+    "Calcium Deficiency",
+    "Poor dietary intake",
+    "Vitamin D Deficiency",
+    "Poor calcium absorption"
+  ],
+  "deficiency_effects": [
+    "Weak bones",
+    "Osteoporosis",
+    "Osteomalacia",
+    "Rickets in children",
+    "Muscle cramps",
+    "Bone pain",
+    "Weak teeth"
+  ],
+  "excess_causes": [
+    "Hypercalcemia",
+    "Excess supplementation"
+  ],
+  "food_sources": [
+    "Milk",
+    "Cheese",
+    "Yoghurt",
+    "Curly kale",
+    "Okra",
+    "Soya drinks with added calcium",
+    "Fortified bread",
+    "Fortified flour products",
+    "Sardines",
+    "Pilchards"
+  ],
+  "natural_sources": [
+    "dairy products",
+    "leafy green vegetables",
+    "fortified plant-based drinks",
+    "fortified grains",
+    "fish with edible bones"
+  ],
+  "recommended_daily_allowance": {
+    "adult_male": "700 mg",
+    "adult_female": "700 mg"
+  },
+  "absorption_factors": {
+    "enhanced_by": [
+      "Vitamin D",
+      "Magnesium",
+      "Healthy digestive function",
+      "Balanced nutrition"
+    ],
+    "inhibited_by": [
+      "Vitamin D deficiency",
+      "Digestive disorders",
+      "Poor nutrition"
+    ]
+  },
+  "absorption_notes": "Calcium absorption is significantly enhanced by Vitamin D. Adequate Vitamin D levels are essential for proper calcium utilization.",
+  "synergistic_nutrients": [
+    "Vitamin D",
+    "Vitamin K",
+    "Magnesium",
+    "Phosphorus"
+  ],
+  "supports_conditions": [
+    "Osteoporosis support",
+    "Bone weakness support",
+    "Osteomalacia support",
+    "Rickets support",
+    "Muscle weakness support"
+  ],
+  "supportive_use_cases": [
+    "Supportive care for bone strengthening",
+    "Support for muscle function",
+    "Support for heart function",
+    "Support for injury recovery",
+    "Support for skeletal maintenance"
+  ],
+  "related_symptoms": [
+    "Muscle cramps",
+    "Weak bones",
+    "Bone pain",
+    "Weak teeth",
+    "Fatigue"
+  ],
+  "interacts_with": [
+    "Vitamin D",
+    "Vitamin K",
+    "Magnesium",
+    "Phosphorus"
+  ],
+  "tags": [
+    "bone health",
+    "muscle function",
+    "heart function",
+    "blood clotting",
+    "skeletal support"
+  ],
+  "metadata": {
+    "body_systems_supported": [
+      "Skeletal System",
+      "Muscular System",
+      "Cardiovascular System",
+      "Nervous System",
+      "Circulatory System"
+    ],
+    "essential": true,
+    "storage": "Stored primarily in bones and teeth",
+    "care_type": "supportive",
+    "drug_recommendation_allowed": false,
+    "solubility": "Mineral",
+    "critical_for_anemia": false
+  },
+  "safety_notes": "Calcium is safe when obtained from natural food sources. Excess supplementation above recommended levels may cause stomach discomfort and digestive issues."
+},
+{
+  "entity": "Iodine",
+  "type": "Nutrient",
+  "category": "Mineral",
+  "description": "Iodine is an essential trace mineral required for the production of thyroid hormones, which regulate metabolism, cellular function, growth, and energy balance throughout the body.",
+  "functions": [
+    "Supports thyroid hormone production",
+    "Regulates metabolic rate",
+    "Supports cellular energy regulation",
+    "Supports growth and development",
+    "Supports hormonal balance"
+  ],
+  "primary_functions": [
+    "Supports thyroid gland function",
+    "Supports metabolism regulation",
+    "Supports cellular health",
+    "Supports energy balance"
+  ],
+  "supportive_roles": [
+    "Supports metabolic efficiency",
+    "Supports proper hormonal regulation",
+    "Supports body temperature regulation",
+    "Supports growth and tissue development",
+    "Supports energy utilization"
+  ],
+  "target_systems": [
+    "endocrine system",
+    "metabolic system",
+    "cellular system",
+    "hormonal system"
+  ],
+  "deficiency_causes": [
+    "Iodine Deficiency",
+    "Poor dietary intake",
+    "Lack of iodine-rich foods",
+    "Strict vegan diet without fortified foods"
+  ],
+  "deficiency_effects": [
+    "Hypothyroidism",
+    "Goiter (thyroid enlargement)",
+    "Fatigue",
+    "Weight gain",
+    "Slow metabolism",
+    "Cold sensitivity",
+    "Cognitive impairment"
+  ],
+  "excess_causes": [
+    "Excess iodine supplementation",
+    "Thyroid dysfunction",
+    "Hyperthyroidism or hypothyroidism"
+  ],
+  "food_sources": [
+    "Cow's milk",
+    "Dairy products",
+    "Eggs",
+    "Sea fish",
+    "Shellfish",
+    "Fortified cereals",
+    "Fortified plant-based drinks"
+  ],
+  "natural_sources": [
+    "dairy products",
+    "eggs",
+    "seafood",
+    "marine foods",
+    "iodine-fortified foods"
+  ],
+  "recommended_daily_allowance": {
+    "adult_male": "140 µg",
+    "adult_female": "140 µg"
+  },
+  "absorption_factors": {
+    "enhanced_by": [
+      "Balanced nutrition",
+      "Healthy thyroid function",
+      "Adequate selenium levels"
+    ],
+    "inhibited_by": [
+      "Poor dietary intake",
+      "Thyroid disorders",
+      "Nutrient deficiencies"
+    ]
+  },
+  "absorption_notes": "Iodine is efficiently absorbed from food and is primarily used by the thyroid gland to produce thyroid hormones.",
+  "synergistic_nutrients": [
+    "Selenium",
+    "Iron",
+    "Zinc",
+    "Vitamin A"
+  ],
+  "supports_conditions": [
+    "Thyroid function support",
+    "Hypothyroidism support",
+    "Metabolic imbalance support",
+    "Energy deficiency support"
+  ],
+  "supportive_use_cases": [
+    "Support for thyroid hormone production",
+    "Support for metabolism regulation",
+    "Support for fatigue related to thyroid dysfunction",
+    "Support for hormonal balance"
+  ],
+  "related_symptoms": [
+    "Fatigue",
+    "Weight gain",
+    "Slow metabolism",
+    "Cold intolerance",
+    "Brain fog"
+  ],
+  "interacts_with": [
+    "Selenium",
+    "Iron",
+    "Zinc",
+    "Vitamin A"
+  ],
+  "tags": [
+    "thyroid health",
+    "metabolism",
+    "hormonal balance",
+    "energy regulation",
+    "endocrine support"
+  ],
+  "metadata": {
+    "body_systems_supported": [
+      "Endocrine System",
+      "Metabolic System",
+      "Hormonal System",
+      "Cellular System"
+    ],
+    "essential": true,
+    "storage": "Stored in the thyroid gland",
+    "care_type": "supportive",
+    "drug_recommendation_allowed": false,
+    "solubility": "Trace mineral",
+    "critical_for_anemia": false
+  },
+  "safety_notes": "Iodine is safe when obtained from natural food sources. Excessive supplementation may disrupt thyroid function and cause metabolic imbalances."
+},
+{
+  "entity": "Iron",
+  "type": "Nutrient",
+  "category": "Mineral",
+  "description": "Iron is an essential mineral required for the production of hemoglobin in red blood cells, enabling oxygen transport throughout the body. It plays a critical role in preventing anemia, supporting energy production, and maintaining overall cellular function.",
+  "functions": [
+    "Supports red blood cell formation",
+    "Supports hemoglobin production",
+    "Enables oxygen transport throughout the body",
+    "Supports cellular energy production",
+    "Supports metabolic processes"
+  ],
+  "primary_functions": [
+    "Supports prevention of iron deficiency anemia",
+    "Supports oxygen transport",
+    "Supports red blood cell production",
+    "Supports energy metabolism"
+  ],
+  "supportive_roles": [
+    "Supports recovery from anemia",
+    "Supports oxygen delivery to tissues",
+    "Supports energy levels and fatigue reduction",
+    "Supports cognitive function",
+    "Supports immune function"
+  ],
+  "target_systems": [
+    "circulatory system",
+    "cellular system",
+    "metabolic system",
+    "immune system"
+  ],
+  "deficiency_causes": [
+    "Iron deficiency",
+    "Poor dietary intake",
+    "Blood loss",
+    "Heavy menstrual bleeding",
+    "Poor absorption"
+  ],
+  "deficiency_effects": [
+    "Iron Deficiency Anemia",
+    "Fatigue",
+    "Weakness",
+    "Pale skin",
+    "Shortness of breath",
+    "Dizziness",
+    "Reduced physical performance",
+    "Impaired cognitive function"
+  ],
+  "excess_causes": [
+    "Excess iron supplementation",
+    "Iron toxicity",
+    "Organ damage",
+    "Digestive distress"
+  ],
+  "food_sources": [
+    "Liver",
+    "Red meat",
+    "Kidney beans",
+    "Edamame beans",
+    "Chickpeas",
+    "Nuts",
+    "Dried apricots",
+    "Fortified breakfast cereals",
+    "Soybean flour"
+  ],
+  "natural_sources": [
+    "red meat",
+    "legumes",
+    "beans",
+    "nuts",
+    "fortified cereals",
+    "plant-based iron sources"
+  ],
+  "recommended_daily_allowance": {
+    "adult_male": "8.7 mg",
+    "adult_female_19_49": "14.8 mg",
+    "adult_female_50_plus": "8.7 mg"
+  },
+  "absorption_factors": {
+    "enhanced_by": [
+      "Vitamin C",
+      "Healthy stomach acid levels",
+      "Animal-based iron sources (heme iron)"
+    ],
+    "inhibited_by": [
+      "Phytates in grains and legumes",
+      "Calcium",
+      "Poor digestive health"
+    ]
+  },
+  "absorption_notes": "Iron absorption is significantly enhanced when consumed with vitamin C-rich foods. Animal-based iron (heme iron) is absorbed more efficiently than plant-based iron (non-heme iron).",
+  "synergistic_nutrients": [
+    "Vitamin C",
+    "Vitamin B12",
+    "Vitamin B9",
+    "Copper"
+  ],
+  "supports_conditions": [
+    "Iron Deficiency Anemia",
+    "General Anemia Support",
+    "Fatigue Support",
+    "Energy Deficiency Support",
+    "Oxygen Transport Support"
+  ],
+  "supportive_use_cases": [
+    "Supportive care for anemia recovery",
+    "Support for fatigue and weakness",
+    "Support for oxygen transport",
+    "Support for energy metabolism",
+    "Support for recovery from blood loss"
+  ],
+  "related_symptoms": [
+    "Fatigue",
+    "Weakness",
+    "Pale skin",
+    "Shortness of breath",
+    "Dizziness",
+    "Low energy",
+    "Cold intolerance"
+  ],
+  "interacts_with": [
+    "Vitamin C",
+    "Vitamin B12",
+    "Vitamin B9",
+    "Copper",
+    "Calcium"
+  ],
+  "tags": [
+    "anemia support",
+    "oxygen transport",
+    "red blood cell formation",
+    "energy metabolism",
+    "fatigue recovery"
+  ],
+  "metadata": {
+    "body_systems_supported": [
+      "Circulatory System",
+      "Metabolic System",
+      "Cellular System",
+      "Immune System"
+    ],
+    "essential": true,
+    "storage": "Stored in the liver, spleen, and bone marrow",
+    "care_type": "supportive",
+    "drug_recommendation_allowed": false,
+    "solubility": "Trace mineral",
+    "critical_for_anemia": true
+  },
+  "safety_notes": "Iron is safe when obtained from natural food sources. Excessive supplementation may cause digestive distress and toxicity. Iron supplements should be used cautiously and kept away from children."
+},
+{
+  "entity": "Potassium",
+  "type": "Nutrient",
+  "category": "Mineral",
+  "description": "Potassium is an essential mineral and electrolyte that regulates fluid balance, supports heart function, maintains proper nerve signaling, and enables normal muscle contraction. It plays a critical role in maintaining blood pressure and overall cellular stability.",
+  "functions": [
+    "Maintains fluid and electrolyte balance",
+    "Supports proper heart muscle function",
+    "Supports nerve signal transmission",
+    "Supports muscle contraction",
+    "Supports blood pressure regulation",
+    "Maintains cellular electrical stability"
+  ],
+  "primary_functions": [
+    "Supports heart function",
+    "Supports nerve function",
+    "Supports muscle contraction",
+    "Supports blood pressure regulation"
+  ],
+  "supportive_roles": [
+    "Supports cardiovascular stability",
+    "Supports proper nerve signaling",
+    "Supports muscle strength and coordination",
+    "Supports fluid balance in cells",
+    "Supports prevention of electrolyte imbalance"
+  ],
+  "target_systems": [
+    "cardiovascular system",
+    "nervous system",
+    "muscular system",
+    "cellular system",
+    "electrolyte balance system"
+  ],
+  "deficiency_causes": [
+    "Low dietary intake",
+    "Excessive fluid loss",
+    "Poor nutrition",
+    "Electrolyte imbalance"
+  ],
+  "deficiency_effects": [
+    "Muscle weakness",
+    "Fatigue",
+    "Irregular heartbeat",
+    "Muscle cramps",
+    "Nerve dysfunction",
+    "Electrolyte imbalance"
+  ],
+  "excess_causes": [
+    "Excess potassium intake",
+    "Electrolyte imbalance",
+    "Digestive distress",
+    "Cardiac rhythm disturbances"
+  ],
+  "food_sources": [
+    "Bananas",
+    "Broccoli",
+    "Parsnips",
+    "Brussels sprouts",
+    "Beans",
+    "Pulses",
+    "Nuts",
+    "Seeds",
+    "Fish",
+    "Beef",
+    "Chicken",
+    "Turkey"
+  ],
+  "natural_sources": [
+    "bananas",
+    "potatoes",
+    "spinach",
+    "vegetables",
+    "legumes",
+    "nuts",
+    "fish",
+    "meat"
+  ],
+  "recommended_daily_allowance": {
+    "adult_male": "3500 mg",
+    "adult_female": "3500 mg"
+  },
+  "absorption_factors": {
+    "enhanced_by": [
+      "Balanced diet",
+      "Healthy kidney function",
+      "Adequate hydration"
+    ],
+    "inhibited_by": [
+      "Poor nutrition",
+      "Electrolyte imbalance",
+      "Kidney dysfunction"
+    ]
+  },
+  "absorption_notes": "Potassium is efficiently absorbed from natural food sources and helps maintain electrical balance across cell membranes.",
+  "synergistic_nutrients": [
+    "Sodium",
+    "Magnesium",
+    "Calcium",
+    "Chloride"
+  ],
+  "supports_conditions": [
+    "Blood Pressure Support",
+    "Electrolyte Balance Support",
+    "Muscle Function Support",
+    "Heart Function Support",
+    "Nerve Function Support"
+  ],
+  "supportive_use_cases": [
+    "Support for cardiovascular health",
+    "Support for muscle function",
+    "Support for nerve function",
+    "Support for electrolyte balance",
+    "Support for blood pressure regulation"
+  ],
+  "related_symptoms": [
+    "Muscle weakness",
+    "Fatigue",
+    "Muscle cramps",
+    "Irregular heartbeat",
+    "Low energy",
+    "Nerve dysfunction"
+  ],
+  "interacts_with": [
+    "Sodium",
+    "Magnesium",
+    "Calcium",
+    "Chloride"
+  ],
+  "tags": [
+    "electrolyte balance",
+    "heart health",
+    "nerve function",
+    "muscle function",
+    "blood pressure regulation"
+  ],
+  "metadata": {
+    "body_systems_supported": [
+      "Cardiovascular System",
+      "Nervous System",
+      "Muscular System",
+      "Cellular System"
+    ],
+    "essential": true,
+    "storage": "Stored primarily inside body cells",
+    "care_type": "supportive",
+    "drug_recommendation_allowed": false,
+    "solubility": "Electrolyte mineral",
+    "critical_for_electrolyte_balance": true
+  },
+  "safety_notes": "Potassium is safe when obtained from natural food sources. Excessive intake, especially from supplements, may cause digestive discomfort or affect heart rhythm."
+},
+{
+  "entity": "Protein",
+  "type": "Nutrient",
+  "category": "Macronutrient",
+  "description": "Protein is an essential macronutrient required for the growth, repair, and maintenance of body tissues. It is made up of amino acids that support muscle development, immune function, enzyme and hormone production, and proper functioning of organs such as the brain, heart, and liver.",
+  "functions": [
+    "Supports tissue growth and repair",
+    "Supports immune system function",
+    "Supports enzyme production",
+    "Supports hormone production",
+    "Supports muscle development and maintenance",
+    "Supports oxygen transport via haemoglobin",
+    "Supports organ structure and function",
+    "Provides energy when needed"
+  ],
+  "primary_functions": [
+    "Supports tissue repair",
+    "Supports immune function",
+    "Supports muscle development",
+    "Supports enzyme and hormone production"
+  ],
+  "supportive_roles": [
+    "Supports organ health",
+    "Supports metabolic processes",
+    "Supports muscle strength",
+    "Supports recovery from illness or injury",
+    "Supports overall body maintenance"
+  ],
+  "target_systems": [
+    "muscular system",
+    "immune system",
+    "cellular system",
+    "circulatory system",
+    "organ systems"
+  ],
+  "deficiency_causes": [
+    "Low protein diet",
+    "Poor nutrition",
+    "Malnutrition",
+    "Chronic illness",
+    "Limited food intake"
+  ],
+  "deficiency_effects": [
+    "Muscle weakness",
+    "Fatigue",
+    "Reduced immunity",
+    "Slow wound healing",
+    "Muscle loss",
+    "Poor growth"
+  ],
+  "excess_causes": [
+    "Excessive protein intake",
+    "High intake of protein supplements",
+    "Unbalanced diet"
+  ],
+  "food_sources": [
+    "Lean meats",
+    "Fish",
+    "Eggs",
+    "Dairy products",
+    "Beans",
+    "Lentils",
+    "Legumes",
+    "Nuts",
+    "Seeds",
+    "Tofu",
+    "Tempeh"
+  ],
+  "natural_sources": [
+    "meat",
+    "fish",
+    "eggs",
+    "dairy",
+    "legumes",
+    "beans",
+    "lentils",
+    "nuts",
+    "seeds",
+    "plant protein sources"
+  ],
+  "recommended_daily_allowance": {
+    "adult_male": "0.75 g per kg body weight",
+    "adult_female": "0.75 g per kg body weight"
+  },
+  "absorption_factors": {
+    "enhanced_by": [
+      "Balanced diet",
+      "Adequate calorie intake",
+      "Healthy digestion"
+    ],
+    "inhibited_by": [
+      "Malnutrition",
+      "Digestive disorders",
+      "Poor dietary diversity"
+    ]
+  },
+  "absorption_notes": "Protein is broken down into amino acids during digestion and absorbed in the small intestine, where they are used to build and repair body tissues.",
+  "synergistic_nutrients": [
+    "Vitamin B6",
+    "Vitamin B12",
+    "Iron",
+    "Magnesium",
+    "Zinc"
+  ],
+  "supports_conditions": [
+    "Muscle Health Support",
+    "Immune System Support",
+    "Tissue Repair Support",
+    "Recovery Support",
+    "General Body Maintenance Support"
+  ],
+  "supportive_use_cases": [
+    "Support for muscle growth",
+    "Support for immune function",
+    "Support for recovery from illness",
+    "Support for wound healing",
+    "Support for overall strength and health"
+  ],
+  "related_symptoms": [
+    "Muscle weakness",
+    "Fatigue",
+    "Slow healing",
+    "Reduced immunity",
+    "Muscle loss",
+    "Low energy"
+  ],
+  "interacts_with": [
+    "Vitamin B6",
+    "Vitamin B12",
+    "Iron",
+    "Magnesium",
+    "Zinc"
+  ],
+  "tags": [
+    "muscle health",
+    "immune support",
+    "tissue repair",
+    "body maintenance",
+    "macronutrient"
+  ],
+  "metadata": {
+    "body_systems_supported": [
+      "Muscular System",
+      "Immune System",
+      "Circulatory System",
+      "Cellular System",
+      "Organ Systems"
+    ],
+    "essential": true,
+    "storage": "Stored as amino acids and in body tissues",
+    "care_type": "supportive",
+    "drug_recommendation_allowed": false,
+    "solubility": "Water-soluble macronutrient components",
+    "critical_for_electrolyte_balance": false
+  },
+  "safety_notes": "Protein is safe when consumed from natural food sources. Excessive intake, especially from supplements, may cause digestive discomfort or kidney strain in extreme cases."
+},
+{
+  "entity": "Fats",
+  "type": "Nutrient",
+  "category": "Macronutrient",
+  "description": "Fats are essential macronutrients that provide energy, support cell structure, protect organs, and enable the absorption of fat-soluble vitamins such as vitamins A, D, and E. They also supply essential fatty acids required for brain function, hormone production, and cardiovascular health.",
+  "functions": [
+    "Provides concentrated energy",
+    "Supports absorption of fat-soluble vitamins",
+    "Supports cell membrane structure",
+    "Supports hormone production",
+    "Protects vital organs",
+    "Supports brain function",
+    "Provides essential fatty acids",
+    "Supports body temperature regulation"
+  ],
+  "primary_functions": [
+    "Provides energy storage",
+    "Supports vitamin absorption",
+    "Protects organs",
+    "Supports hormone production"
+  ],
+  "supportive_roles": [
+    "Supports brain health",
+    "Supports cardiovascular health when healthy fats are consumed",
+    "Supports insulation and temperature regulation",
+    "Supports cellular structure",
+    "Supports metabolic function"
+  ],
+  "target_systems": [
+    "cellular system",
+    "nervous system",
+    "cardiovascular system",
+    "endocrine system",
+    "digestive system"
+  ],
+  "deficiency_causes": [
+    "Very low-fat diet",
+    "Malnutrition",
+    "Poor dietary intake",
+    "Fat malabsorption disorders"
+  ],
+  "deficiency_effects": [
+    "Fatigue",
+    "Poor vitamin absorption",
+    "Dry skin",
+    "Weakened immunity",
+    "Hormonal imbalance",
+    "Poor organ protection"
+  ],
+  "excess_causes": [
+    "Excess intake of saturated fats",
+    "Excess intake of trans fats",
+    "High-fat processed food consumption",
+    "Unbalanced diet"
+  ],
+  "excess_effects": [
+    "Increased cholesterol levels",
+    "Increased risk of heart disease",
+    "Weight gain",
+    "Cardiovascular strain",
+    "Metabolic imbalance"
+  ],
+  "food_sources": [
+    "Avocados",
+    "Olive oil",
+    "Rapeseed oil",
+    "Sunflower oil",
+    "Fatty fish",
+    "Nuts",
+    "Seeds",
+    "Dairy products"
+  ],
+  "natural_sources": [
+    "plant oils",
+    "avocados",
+    "fatty fish",
+    "nuts",
+    "seeds",
+    "dairy",
+    "meat"
+  ],
+  "recommended_daily_allowance": {
+    "adult_male": "20–35% of total daily energy intake",
+    "adult_female": "20–35% of total daily energy intake"
+  },
+  "absorption_factors": {
+    "enhanced_by": [
+      "Presence of bile acids",
+      "Healthy digestive system",
+      "Balanced diet"
+    ],
+    "inhibited_by": [
+      "Digestive disorders",
+      "Fat malabsorption conditions",
+      "Poor nutrition"
+    ]
+  },
+  "absorption_notes": "Fats are digested in the small intestine with the help of bile and enzymes, allowing absorption of essential fatty acids and fat-soluble vitamins.",
+  "synergistic_nutrients": [
+    "Vitamin A",
+    "Vitamin D",
+    "Vitamin E",
+    "Vitamin K"
+  ],
+  "supports_conditions": [
+    "Energy Support",
+    "Organ Protection Support",
+    "Brain Health Support",
+    "Hormonal Health Support",
+    "Vitamin Absorption Support"
+  ],
+  "supportive_use_cases": [
+    "Support for energy needs",
+    "Support for vitamin absorption",
+    "Support for organ protection",
+    "Support for brain function",
+    "Support for hormone production"
+  ],
+  "related_symptoms": [
+    "Fatigue",
+    "Dry skin",
+    "Low energy",
+    "Poor vitamin absorption",
+    "Hormonal imbalance"
+  ],
+  "interacts_with": [
+    "Vitamin A",
+    "Vitamin D",
+    "Vitamin E",
+    "Vitamin K"
+  ],
+  "tags": [
+    "energy storage",
+    "organ protection",
+    "vitamin absorption",
+    "brain health",
+    "macronutrient"
+  ],
+  "metadata": {
+    "body_systems_supported": [
+      "Nervous System",
+      "Cardiovascular System",
+      "Endocrine System",
+      "Cellular System"
+    ],
+    "essential": true,
+    "storage": "Stored in adipose (fat) tissue for energy reserve",
+    "care_type": "supportive",
+    "drug_recommendation_allowed": false,
+    "solubility": "Fat-soluble macronutrient",
+    "critical_for_electrolyte_balance": false
+  },
+  "safety_notes": "Fats are essential for health when consumed in balanced amounts. Excessive intake of saturated and trans fats increases the risk of heart disease and cholesterol imbalance, while healthy unsaturated fats support cardiovascular health."
+},
+{
+  "entity": "Carbohydrates",
+  "type": "Nutrient",
+  "category": "Macronutrient",
+  "description": "Carbohydrates are essential macronutrients that serve as the body's primary source of energy. They are broken down into glucose, which fuels cellular activity, supports brain function, and maintains overall metabolic processes. Carbohydrates include simple sugars and complex starches, which differ in their digestion speed and impact on blood glucose levels.",
+  "functions": [
+    "Provides primary energy for the body",
+    "Supports brain function",
+    "Supports cellular energy production",
+    "Supports metabolic processes",
+    "Supports physical activity",
+    "Supports proper nervous system function",
+    "Supports glucose storage as glycogen",
+    "Supports organ function"
+  ],
+  "primary_functions": [
+    "Provides energy for cellular function",
+    "Supports brain energy requirements",
+    "Supports metabolic activity",
+    "Maintains blood glucose levels"
+  ],
+  "supportive_roles": [
+    "Supports muscle function",
+    "Supports physical endurance",
+    "Supports nervous system activity",
+    "Supports metabolic stability",
+    "Supports glycogen storage for future energy use"
+  ],
+  "target_systems": [
+    "metabolic system",
+    "nervous system",
+    "muscular system",
+    "cellular system",
+    "endocrine system"
+  ],
+  "deficiency_causes": [
+    "Low carbohydrate intake",
+    "Malnutrition",
+    "Poor dietary intake",
+    "Extreme low-calorie diets"
+  ],
+  "deficiency_effects": [
+    "Fatigue",
+    "Low energy",
+    "Weakness",
+    "Poor brain function",
+    "Dizziness",
+    "Reduced physical endurance"
+  ],
+  "excess_causes": [
+    "Excess intake of simple sugars",
+    "High intake of refined carbohydrates",
+    "Poor dietary balance",
+    "Excess calorie consumption"
+  ],
+  "excess_effects": [
+    "Elevated blood glucose levels",
+    "Weight gain",
+    "Increased risk of metabolic disorders",
+    "Insulin resistance",
+    "Energy imbalance"
+  ],
+  "food_sources": [
+    "Whole grains",
+    "Rice",
+    "Bread",
+    "Oats",
+    "Pasta",
+    "Potatoes",
+    "Fruits",
+    "Vegetables",
+    "Beans",
+    "Lentils"
+  ],
+  "natural_sources": [
+    "whole grains",
+    "fruits",
+    "vegetables",
+    "legumes",
+    "milk",
+    "natural starch foods"
+  ],
+  "recommended_daily_allowance": {
+    "adult_male": "45–65% of total daily energy intake",
+    "adult_female": "45–65% of total daily energy intake"
+  },
+  "absorption_factors": {
+    "enhanced_by": [
+      "Healthy digestive function",
+      "Balanced diet",
+      "Presence of insulin"
+    ],
+    "inhibited_by": [
+      "Insulin deficiency",
+      "Metabolic disorders",
+      "Poor digestion"
+    ]
+  },
+  "absorption_notes": "Carbohydrates are broken down into glucose in the digestive system. Insulin helps transport glucose into cells where it is used for energy or stored as glycogen.",
+  "synergistic_nutrients": [
+    "Vitamin B1",
+    "Vitamin B2",
+    "Vitamin B3",
+    "Magnesium"
+  ],
+  "supports_conditions": [
+    "Energy Deficiency Support",
+    "Brain Function Support",
+    "Metabolic Support",
+    "Physical Performance Support"
+  ],
+  "supportive_use_cases": [
+    "Support for energy production",
+    "Support for brain function",
+    "Support for physical endurance",
+    "Support for metabolic stability",
+    "Support for recovery from fatigue"
+  ],
+  "related_symptoms": [
+    "Fatigue",
+    "Low energy",
+    "Weakness",
+    "Dizziness",
+    "Poor concentration"
+  ],
+  "interacts_with": [
+    "Insulin",
+    "Vitamin B Complex",
+    "Magnesium"
+  ],
+  "tags": [
+    "energy source",
+    "brain function",
+    "metabolic support",
+    "macronutrient",
+    "glucose metabolism"
+  ],
+  "metadata": {
+    "body_systems_supported": [
+      "Metabolic System",
+      "Nervous System",
+      "Muscular System",
+      "Cellular System"
+    ],
+    "essential": true,
+    "storage": "Stored as glycogen in liver and muscles",
+    "care_type": "supportive",
+    "drug_recommendation_allowed": false,
+    "solubility": "Water-soluble macronutrient",
+    "critical_for_energy": true
+  },
+  "safety_notes": "Carbohydrates are essential for energy production. Balanced intake from complex carbohydrate sources such as whole grains, fruits, and vegetables supports metabolic health, while excessive intake of refined sugars may increase the risk of metabolic disorders."
+}
+]

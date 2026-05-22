@@ -1,0 +1,1643 @@
+[{
+  "herb_id": "herb_001",
+  "name": "Turmeric",
+  "scientific_name": "Curcuma longa",
+  "category": "spice / medicinal herb",
+  "description": "Turmeric is a deep golden-orange spice derived from the rhizome of an Asian plant related to ginger. It has been widely used in cooking and traditional medicine systems such as Ayurveda and traditional Chinese medicine for centuries.",
+
+  "key_compounds": [
+    "Curcumin",
+    "Phytonutrients"
+  ],
+
+  "primary_properties": [
+    "Anti-inflammatory",
+    "Antioxidant"
+  ],
+
+  "health_benefits": [
+    "Helps reduce inflammation",
+    "Supports joint health",
+    "Neutralizes free radicals",
+    "Protects cells from oxidative damage",
+    "Supports metabolic health",
+    "May help improve mood and cognitive health",
+    "May reduce muscle soreness after exercise",
+    "Supports kidney health"
+  ],
+
+  "commonly_used_for": [
+    "Inflammatory conditions",
+    "Arthritis and joint disorders",
+    "Colitis",
+    "Allergies",
+    "Infections",
+    "Metabolic syndrome",
+    "High cholesterol",
+    "Anxiety",
+    "Muscle soreness",
+    "Degenerative eye conditions"
+  ],
+
+  "preparation_methods": [
+    "Turmeric milk (Haldi Doodh / Golden milk)",
+    "Turmeric tea",
+    "Smoothies",
+    "Soups",
+    "Rice dishes",
+    "Salad dressings",
+    "Lattes",
+    "Lassi",
+    "Energy balls"
+  ],
+
+  "common_combinations": [
+    "Black pepper",
+    "Ginger",
+    "Cardamom",
+    "Cinnamon",
+    "Honey",
+    "Milk"
+  ],
+
+  "dietary_uses": [
+    "Spice in curries",
+    "Golden milk beverage",
+    "Herbal tea ingredient",
+    "Smoothies",
+    "Soup seasoning",
+    "Rice dishes",
+    "Salad dressings",
+    "Healthy snacks"
+  ],
+
+  "traditional_medicine_systems": [
+    "Ayurveda",
+    "Traditional Chinese Medicine"
+  ],
+
+  "skin_care_uses": [
+    "Helps reduce acne",
+    "Helps reduce dark spots",
+    "May improve skin radiance",
+    "Helps reduce blemishes",
+    "Supports anti-aging skincare"
+  ],
+
+  "topical_preparations": [
+    {
+      "name": "Turmeric Face Mask",
+      "ingredients": [
+        "1 tablespoon turmeric powder",
+        "1 tablespoon sandalwood powder",
+        "1 teaspoon honey",
+        "water"
+      ],
+      "steps": [
+        "Mix turmeric powder and sandalwood powder in a bowl.",
+        "Add honey to the mixture.",
+        "Add water gradually to form a thick paste.",
+        "Apply the paste evenly on the face.",
+        "Leave for 10–15 minutes.",
+        "Rinse with warm water and apply moisturizer."
+      ]
+    },
+    {
+      "name": "Turmeric Cleanser",
+      "ingredients": [
+        "1 tablespoon turmeric powder",
+        "1 tablespoon chickpea powder",
+        "milk"
+      ],
+      "steps": [
+        "Mix turmeric powder and chickpea powder in a bowl.",
+        "Add a few drops of milk to create a thick paste.",
+        "Apply evenly on the face.",
+        "Leave for about 15 minutes.",
+        "Wash off with fresh water."
+      ]
+    },
+    {
+      "name": "Turmeric Skin Oil",
+      "ingredients": [
+        "2 drops turmeric essential oil",
+        "3 tablespoons olive oil"
+      ],
+      "steps": [
+        "Mix turmeric essential oil with olive oil.",
+        "Store the mixture in a small container.",
+        "Massage a few drops onto the skin before bedtime.",
+        "Leave overnight."
+      ]
+    }
+  ],
+
+  "safety_notes": [
+    "Avoid applying turmeric directly to the skin if allergic.",
+    "May cause redness, swelling or irritation in sensitive individuals."
+  ],
+
+  "notes": "Curcumin is the main active compound responsible for many of turmeric's biological activities. It has antioxidant and anti-inflammatory effects, though not all mechanisms are fully understood."
+},
+{
+  "herb_id": "herb_002",
+  "name": "Ginger",
+  "scientific_name": "Zingiber officinale",
+  "category": "spice / medicinal herb",
+  "description": "Ginger is a rhizome from the plant Zingiber officinale and has been widely used in cooking and traditional medicine for centuries. Originating from Southeast Asia, ginger is known for its strong flavor and medicinal properties, particularly for digestive health and immune support.",
+
+  "key_compounds": [
+    "Gingerol",
+    "Shogaols",
+    "Antioxidants"
+  ],
+
+  "primary_properties": [
+    "Anti-inflammatory",
+    "Antioxidant",
+    "Digestive support"
+  ],
+
+  "health_benefits": [
+    "Supports efficient digestion",
+    "Helps relieve nausea",
+    "Reduces bloating and intestinal gas",
+    "Helps manage free radical damage",
+    "Supports immune system function",
+    "May help regulate blood sugar levels",
+    "Helps soothe menstrual cramps",
+    "Supports joint health and reduces stiffness"
+  ],
+
+  "commonly_used_for": [
+    "Nausea",
+    "Morning sickness during pregnancy",
+    "Chemotherapy-related nausea",
+    "Bloating and gas",
+    "Indigestion",
+    "Menstrual cramps",
+    "Joint discomfort",
+    "Respiratory inflammation"
+  ],
+
+  "preparation_methods": [
+    "Ginger shots",
+    "Ginger tea",
+    "Ginger water",
+    "Smoothies",
+    "Pickled ginger",
+    "Ground ginger in baking",
+    "Stir-fries",
+    "Soups and stews",
+    "Curries",
+    "Marinades",
+    "Rice and grain dishes"
+  ],
+
+  "common_combinations": [
+    "Turmeric",
+    "Honey",
+    "Garlic",
+    "Lemon",
+    "Cinnamon",
+    "Soy sauce"
+  ],
+
+  "dietary_uses": [
+    "Stir-fries",
+    "Soups",
+    "Curries",
+    "Marinades",
+    "Rice dishes",
+    "Roasted vegetables",
+    "Salad dressings",
+    "Smoothies",
+    "Baked goods"
+  ],
+
+  "traditional_medicine_systems": [
+    "Ayurveda",
+    "Traditional Chinese Medicine"
+  ],
+
+  "skin_care_uses": [
+    "May help improve skin circulation",
+    "May support anti-aging skin care",
+    "May help reduce inflammation in skin"
+  ],
+
+  "safety_notes": [
+    "High doses above 4 grams per day may cause heartburn or stomach discomfort.",
+    "People with sensitive digestion may experience mild irritation.",
+    "Consult a healthcare provider before using supplements during pregnancy or while taking medications."
+  ],
+
+  "notes": "Ginger contains more than 400 natural compounds, with gingerol being one of the most important active compounds responsible for many of its medicinal effects."
+},
+{
+  "herb_id": "herb_003",
+  "name": "Garlic",
+  "scientific_name": "Allium sativum",
+  "category": "food / medicinal herb",
+  "description": "Garlic is a widely used culinary ingredient and medicinal plant known for its strong aroma and flavor. Its characteristic smell comes from sulfur compounds such as allicin. Garlic has been valued for centuries in traditional medicine and cooking for its antimicrobial, anti-inflammatory, and cardiovascular benefits.",
+
+  "key_compounds": [
+    "Allicin",
+    "Alliin",
+    "Allixin",
+    "Sulfur compounds",
+    "Antioxidants"
+  ],
+
+  "primary_properties": [
+    "Antibacterial",
+    "Antifungal",
+    "Anti-inflammatory",
+    "Antioxidant",
+    "Cardiovascular support"
+  ],
+
+  "health_benefits": [
+    "Boosts immune system function",
+    "Supports heart and cardiovascular health",
+    "May help regulate blood pressure",
+    "Helps reduce cholesterol and triglyceride levels",
+    "Supports anti-inflammatory response",
+    "Helps combat oxidative stress",
+    "May support cancer risk reduction when part of a healthy diet",
+    "Helps fight fungal infections",
+    "Supports skin health by combating acne-causing bacteria"
+  ],
+
+  "commonly_used_for": [
+    "Weak immunity",
+    "High blood pressure",
+    "High cholesterol",
+    "Inflammation",
+    "Joint discomfort",
+    "Acne",
+    "Food poisoning bacteria",
+    "Athlete’s foot fungal infection"
+  ],
+
+  "preparation_methods": [
+    "Raw garlic",
+    "Minced garlic in cooking",
+    "Garlic oil",
+    "Roasted garlic",
+    "Garlic paste",
+    "Garlic-infused butter",
+    "Garlic marinades"
+  ],
+
+  "common_combinations": [
+    "Olive oil",
+    "Lemon juice",
+    "Honey",
+    "Ginger",
+    "Herbs and spices"
+  ],
+
+  "dietary_uses": [
+    "Sautéed vegetables",
+    "Roasted vegetable dishes",
+    "Hummus",
+    "Rice or quinoa dishes",
+    "Marinades",
+    "Salad dressings",
+    "Guacamole",
+    "Soups",
+    "Seafood dishes",
+    "Yogurt-based dips",
+    "Tapenade spreads"
+  ],
+
+  "traditional_medicine_systems": [
+    "Ayurveda",
+    "Traditional Chinese Medicine",
+    "Traditional herbal medicine"
+  ],
+
+  "skin_care_uses": [
+    "Helps reduce acne-causing bacteria",
+    "May improve skin clarity",
+    "Used in traditional remedies for fungal infections"
+  ],
+
+  "topical_uses": [
+    "Garlic oil applied to sore joints or muscles",
+    "Raw garlic applied carefully to acne spots",
+    "Garlic water foot soak for athlete’s foot"
+  ],
+
+  "safety_notes": [
+    "Direct application of raw garlic on skin may cause burning or irritation.",
+    "Consult a healthcare professional before replacing prescribed medication with dietary remedies."
+  ],
+
+  "notes": "Garlic’s health benefits largely come from sulfur-containing compounds such as allicin, which are responsible for many of its antimicrobial and cardiovascular effects."
+},
+{
+  "herb_id": "herb_004",
+  "name": "Tulsi",
+  "scientific_name": "Ocimum tenuiflorum",
+  "category": "medicinal herb",
+  "description": "Tulsi, also known as holy basil, is a medicinal herb native to India and widely used in Ayurveda. Considered sacred in Hindu traditions, it has been used for thousands of years for its health-promoting properties. Tulsi is known as the 'Queen of Herbs' and is commonly consumed as tea, fresh leaves, extracts, or powders for its adaptogenic and immune-supporting benefits.",
+
+  "key_compounds": [
+    "Eugenol",
+    "Polyphenols",
+    "Antioxidants"
+  ],
+
+  "primary_properties": [
+    "Adaptogenic",
+    "Anti-inflammatory",
+    "Antioxidant",
+    "Antibacterial",
+    "Antiviral",
+    "Immune-supporting"
+  ],
+
+  "health_benefits": [
+    "Supports immune system function",
+    "Helps manage stress and anxiety",
+    "Improves energy and reduces fatigue",
+    "Helps regulate blood sugar levels",
+    "Supports healthy cholesterol levels",
+    "Helps regulate blood pressure",
+    "Reduces inflammation",
+    "Supports respiratory health",
+    "May improve metabolic balance"
+  ],
+
+  "commonly_used_for": [
+    "Common cold",
+    "Cough",
+    "Respiratory infections",
+    "Stress and anxiety",
+    "Fatigue",
+    "Digestive discomfort",
+    "High cholesterol",
+    "High blood pressure",
+    "Diabetes support",
+    "Skin infections",
+    "Seasonal allergies"
+  ],
+
+  "preparation_methods": [
+    "Tulsi tea",
+    "Chewing fresh tulsi leaves",
+    "Tulsi powder mixed with water or honey",
+    "Tulsi extract (Tulsi Ark)",
+    "Tulsi essential oil",
+    "Tulsi paste for topical use"
+  ],
+
+  "common_combinations": [
+    "Honey",
+    "Ginger",
+    "Lemon",
+    "Warm water"
+  ],
+
+  "dietary_uses": [
+    "Herbal tea",
+    "Fresh leaves consumed directly",
+    "Mixed with honey for immunity",
+    "Herbal detox drinks"
+  ],
+
+  "traditional_medicine_systems": [
+    "Ayurveda",
+    "Traditional herbal medicine"
+  ],
+
+  "skin_care_uses": [
+    "Helps reduce acne and skin infections",
+    "Purifies blood and supports skin health",
+    "May help reduce dandruff and scalp infections"
+  ],
+
+  "topical_uses": [
+    "Tulsi oil applied to skin for acne",
+    "Tulsi paste applied to skin infections",
+    "Tulsi oil applied to scalp for dandruff"
+  ],
+
+  "recommended_consumption_methods": [
+    "Chew 5–7 fresh tulsi leaves daily on an empty stomach",
+    "Drink tulsi tea once or twice daily",
+    "Take tulsi powder with warm water or honey",
+    "Use tulsi extract in small diluted amounts"
+  ],
+
+  "safety_notes": [
+    "Pregnant women should avoid large amounts of tulsi.",
+    "People taking blood-thinning medications should consult a healthcare provider.",
+    "Individuals with low blood sugar should monitor levels while consuming tulsi.",
+    "Women trying to conceive should limit tulsi consumption."
+  ],
+
+  "research_notes": "Many studies suggest promising health benefits, but more high-quality clinical trials are needed to determine precise dosages and long-term effects.",
+
+  "notes": "Tulsi is considered an adaptogen, meaning it helps the body manage stress and maintain physiological balance."
+},
+{
+  "herb_id": "herb_005",
+  "name": "Honey",
+  "scientific_name": "Apis mellifera (product of honeybees)",
+  "category": "natural sweetener / medicinal food",
+  "description": "Honey is a natural sweet substance produced by honeybees from the nectar of flowers. It has been used for thousands of years as both a food and a traditional remedy. Honey contains a variety of bioactive compounds including phenolics, flavonoids, enzymes, and organic acids that contribute to its antioxidant, antimicrobial, anti-inflammatory, and immune-supporting properties. Different types of honey, such as Manuka honey, may have stronger biological activities depending on their botanical origin.",
+
+  "key_compounds": [
+    "Phenolic compounds",
+    "Flavonoids",
+    "Glucose oxidase",
+    "Hydrogen peroxide",
+    "Nigerooligosaccharides",
+    "Terpenes",
+    "Pinocembrin"
+  ],
+
+  "primary_properties": [
+    "Antioxidant",
+    "Antibacterial",
+    "Antifungal",
+    "Anti-inflammatory",
+    "Immunomodulatory",
+    "Energy boosting"
+  ],
+
+  "health_benefits": [
+    "Acts as a natural antioxidant protecting cells from oxidative damage",
+    "Supports immune system response",
+    "Helps soothe sore throat and reduce coughing",
+    "May support digestive health",
+    "Helps reduce inflammation",
+    "Provides quick natural energy",
+    "Supports wound healing and skin health",
+    "May contribute to cellular protection against oxidative stress",
+    "Supports overall metabolic health"
+  ],
+
+  "commonly_used_for": [
+    "Sore throat",
+    "Cough relief",
+    "Digestive discomfort",
+    "Low energy or fatigue",
+    "Skin dryness",
+    "Minor wounds",
+    "Inflammation",
+    "General immune support"
+  ],
+
+  "preparation_methods": [
+    "Consumed raw",
+    "Mixed with warm water",
+    "Added to herbal tea",
+    "Mixed with lemon or ginger drinks",
+    "Used in food recipes",
+    "Applied topically in skin masks"
+  ],
+
+  "common_combinations": [
+    "Lemon",
+    "Ginger",
+    "Tulsi",
+    "Turmeric",
+    "Cinnamon",
+    "Warm water",
+    "Herbal tea"
+  ],
+
+  "dietary_uses": [
+    "Natural sweetener in tea or coffee",
+    "Added to oats, yogurt, or cereals",
+    "Used in smoothies and juices",
+    "Used in salad dressings",
+    "Used in marinades and glazes",
+    "Used in baked foods",
+    "Drizzled over toast or fruits"
+  ],
+
+  "traditional_medicine_systems": [
+    "Ayurveda",
+    "Traditional Chinese Medicine",
+    "Folk medicine"
+  ],
+
+  "skin_care_uses": [
+    "Moisturizes and hydrates skin",
+    "Helps reduce acne due to antibacterial properties",
+    "Promotes glowing skin",
+    "Supports wound healing"
+  ],
+
+  "topical_uses": [
+    "Honey face mask",
+    "Honey and turmeric skin pack",
+    "Honey lip scrub",
+    "Honey and aloe vera skin treatment",
+    "Honey hair conditioning mixture"
+  ],
+
+  "recommended_consumption_methods": [
+    "Mix one teaspoon with warm water in the morning",
+    "Add to herbal tea or lemon water",
+    "Use as a natural sweetener in meals",
+    "Consume before bed in small amounts for relaxation"
+  ],
+
+  "safety_notes": [
+    "Do not give honey to infants under one year old due to risk of infant botulism.",
+    "People with diabetes should monitor blood sugar when consuming honey.",
+    "Excessive consumption may contribute to high sugar intake."
+  ],
+
+  "research_notes": "Honey contains multiple bioactive compounds including phenolics and flavonoids that contribute to antioxidant, antimicrobial, anti-inflammatory, and immune-modulating activities. Research suggests honey may help reduce oxidative stress, inhibit microbial growth, and support immune responses.",
+
+  "notes": "Darker varieties of honey generally contain higher antioxidant levels. Manuka honey is known for particularly strong antimicrobial properties."
+},
+{
+  "herb_id": "herb_006",
+  "name": "Black Pepper",
+  "scientific_name": "Piper nigrum",
+  "category": "spice / medicinal herb",
+  "description": "Black pepper is a widely used spice derived from the dried berries of the Piper nigrum plant. Often called the 'King of Spices', it has been used in cooking and traditional medicine for centuries. Black pepper contains the active compound piperine, which contributes to its pungent flavor and many of its health benefits, including improved nutrient absorption and digestive support.",
+
+  "key_compounds": [
+    "Piperine",
+    "Essential oils",
+    "Flavonoids",
+    "Alkaloids"
+  ],
+
+  "primary_properties": [
+    "Antioxidant",
+    "Anti-inflammatory",
+    "Digestive stimulant",
+    "Bioavailability enhancer"
+  ],
+
+  "health_benefits": [
+    "High in antioxidants",
+    "Has anti-inflammatory properties",
+    "May benefit brain health",
+    "May improve blood sugar control",
+    "May help lower cholesterol levels",
+    "Boosts absorption of nutrients such as curcumin",
+    "May promote gut health",
+    "May offer mild pain relief",
+    "May help reduce appetite"
+  ],
+
+  "commonly_used_for": [
+    "Digestive support",
+    "Poor nutrient absorption",
+    "Inflammation",
+    "Metabolic health support",
+    "Appetite regulation"
+  ],
+
+  "preparation_methods": [
+    "Ground black pepper added to food",
+    "Crushed peppercorn infusion",
+    "Mixed with warm milk",
+    "Added to herbal tea"
+  ],
+
+  "common_combinations": [
+    "Turmeric",
+    "Honey",
+    "Ginger",
+    "Warm milk",
+    "Tea"
+  ],
+
+  "dietary_uses": [
+    "Season curries to enhance flavor and aroma",
+    "Sprinkle on fresh fruits like mangoes, pineapples, or strawberries",
+    "Mix into yogurt or lassi for a savory taste",
+    "Infuse into tea for a warm spicy beverage",
+    "Sprinkle on roasted vegetables",
+    "Add to milk or tea for extra warmth and flavor"
+  ],
+
+  "traditional_medicine_systems": [
+    "Ayurveda",
+    "Traditional Chinese Medicine",
+    "Folk medicine"
+  ],
+
+  "skin_care_uses": [
+    "Sometimes used in herbal scrubs to stimulate circulation",
+    "May help exfoliate skin when used carefully in mixtures"
+  ],
+
+  "topical_uses": [
+    "Mixed in herbal scrubs",
+    "Combined with oils for circulation-stimulating massage blends"
+  ],
+
+  "recommended_consumption_methods": [
+    "Add freshly ground black pepper to meals",
+    "Use a pinch in warm milk or tea",
+    "Combine with turmeric and honey in drinks",
+    "Sprinkle lightly over fruits or vegetables"
+  ],
+
+  "safety_notes": [
+    "Excess consumption may irritate the digestive tract.",
+    "High doses of piperine may interact with certain medications.",
+    "Use cautiously if you have gastric ulcers or severe acid reflux."
+  ],
+
+  "research_notes": "Piperine, the primary active compound in black pepper, has been studied for its antioxidant, anti-inflammatory, and bioavailability-enhancing properties. It is particularly known for improving the absorption of nutrients such as curcumin from turmeric.",
+
+  "notes": "Black pepper significantly enhances the absorption of curcumin from turmeric, making the combination commonly used in traditional remedies."
+},
+{
+  "herb_id": "herb_007",
+  "name": "Moringa",
+  "scientific_name": "Moringa oleifera",
+  "category": "medicinal plant / nutrient-rich leafy green",
+  "description": "Moringa, often called the 'drumstick tree' or 'miracle tree', is a highly nutritious plant widely used in traditional diets and herbal medicine. The leaves and pods are rich in vitamins, minerals, antioxidants, and plant compounds that support overall health. While many health claims exist, most confirmed benefits come from its impressive nutritional profile rather than direct medical treatment properties.",
+
+  "key_compounds": [
+    "Quercetin",
+    "Chlorogenic acid",
+    "Beta-carotene",
+    "Polyphenols",
+    "Vitamin A",
+    "Vitamin C",
+    "Calcium",
+    "Iron",
+    "Magnesium"
+  ],
+
+  "primary_properties": [
+    "Antioxidant",
+    "Anti-inflammatory",
+    "Nutrient-dense",
+    "Immune-supporting",
+    "Digestive-supporting"
+  ],
+
+  "health_benefits": [
+    "Rich in antioxidants that protect cells from oxidative stress",
+    "Supports bone health due to calcium, magnesium, phosphorus, and vitamin K",
+    "Promotes healthy eyesight due to high vitamin A content",
+    "Helps with weight management by promoting fullness",
+    "Provides essential vitamins and minerals for overall health",
+    "May help regulate blood sugar levels",
+    "May support cholesterol management",
+    "Supports brain health and cognitive function",
+    "Supports digestion and gut health",
+    "Promotes skin health due to vitamin and antioxidant content",
+    "Supports immune system function",
+    "Provides plant-based protein"
+  ],
+
+  "commonly_used_for": [
+    "Nutritional supplementation",
+    "Weight management support",
+    "Bone health support",
+    "Vision health",
+    "Digestive health",
+    "Immune system support",
+    "Metabolic health"
+  ],
+
+  "preparation_methods": [
+    "Fresh leaves cooked in curries",
+    "Dried leaves ground into powder",
+    "Moringa tea made from dried leaves",
+    "Added to smoothies",
+    "Used in soups or stir-fries"
+  ],
+
+  "common_combinations": [
+    "Garlic",
+    "Ginger",
+    "Coconut",
+    "Lemon",
+    "Honey"
+  ],
+
+  "dietary_uses": [
+    "Add fresh leaves to salads",
+    "Cook leaves in curries or stir-fries",
+    "Sprinkle moringa powder on smoothies or yogurt",
+    "Make moringa tea from dried leaves",
+    "Add chopped leaves to soups",
+    "Blend moringa leaves in smoothies",
+    "Mix leaves into cooked rice",
+    "Use leaves as wraps for fillings"
+  ],
+
+  "traditional_medicine_systems": [
+    "Ayurveda",
+    "Traditional African medicine",
+    "Folk medicine"
+  ],
+
+  "skin_care_uses": [
+    "Supports skin health due to vitamin E and antioxidants",
+    "May help reduce signs of aging",
+    "Supports skin repair and nourishment"
+  ],
+
+  "topical_uses": [
+    "Moringa oil used in skincare products",
+    "Leaf paste used in traditional herbal skin treatments"
+  ],
+
+  "recommended_consumption_methods": [
+    "Add fresh moringa leaves to salads or curries",
+    "Consume moringa powder in smoothies or soups",
+    "Drink moringa tea made from dried leaves",
+    "Use moringa leaves regularly as part of meals"
+  ],
+
+  "safety_notes": [
+    "Roots, bark, and flowers of the moringa plant are not safe for consumption.",
+    "Excessive intake of leaves may cause stomach cramps, gas, diarrhea, or nausea.",
+    "Pregnant or breastfeeding individuals should consult a healthcare professional before consuming regularly.",
+    "Consult a healthcare provider if taking medications such as blood thinners, antihypertensives, statins, diabetes medications, thyroid medications, or drugs processed by the liver."
+  ],
+
+  "research_notes": "Many health claims about moringa supplements lack strong clinical evidence. However, its nutritional richness and antioxidant content are well supported by research as beneficial for general health.",
+
+  "notes": "Moringa leaves are considered one of the most nutrient-dense leafy greens and are widely used in diets across Asia and Africa."
+},
+{
+  "herb_id": "herb_008",
+  "name": "Beetroot",
+  "scientific_name": "Beta vulgaris",
+  "category": "vegetable / medicinal food",
+  "description": "Beetroot, also known as chukandar, is a nutrient-dense root vegetable widely used in food and traditional health practices. It contains natural pigments called betalains, along with dietary nitrates, vitamins, minerals, and antioxidants. Beetroot is known for supporting cardiovascular health, improving exercise performance, and providing strong antioxidant protection.",
+
+  "key_compounds": [
+    "Betanin",
+    "Betalains",
+    "Dietary nitrates",
+    "Polyphenols",
+    "Vitamin C",
+    "Vitamin E",
+    "Folate",
+    "Potassium"
+  ],
+
+  "primary_properties": [
+    "Antioxidant",
+    "Anti-inflammatory",
+    "Cardiovascular-supporting",
+    "Metabolism-supporting",
+    "Exercise-performance enhancing"
+  ],
+
+  "health_benefits": [
+    "Provides strong antioxidant protection against oxidative stress",
+    "Supports cardiovascular health and blood vessel function",
+    "May help lower blood pressure due to dietary nitrates",
+    "May help regulate blood sugar levels",
+    "Supports cholesterol management",
+    "May support weight management and metabolic health",
+    "Supports immune system function",
+    "May improve exercise performance and endurance",
+    "Supports detoxification and liver health",
+    "May help protect cells from oxidative and nitrative stress"
+  ],
+
+  "commonly_used_for": [
+    "High blood pressure",
+    "Cardiovascular health support",
+    "Exercise performance improvement",
+    "Oxidative stress reduction",
+    "Metabolic health support",
+    "General nutritional supplementation"
+  ],
+
+  "preparation_methods": [
+    "Raw grated beetroot",
+    "Roasted beetroot",
+    "Boiled beetroot",
+    "Beetroot juice",
+    "Beetroot puree",
+    "Pickled beetroot"
+  ],
+
+  "common_combinations": [
+    "Carrot",
+    "Ginger",
+    "Apple",
+    "Lemon",
+    "Honey",
+    "Garlic"
+  ],
+
+  "dietary_uses": [
+    "Raw beetroot salad with carrots and lemon dressing",
+    "Roasted beetroot cubes with olive oil and spices",
+    "Beetroot hummus blended with chickpeas and garlic",
+    "Beetroot soup with onions and vegetable stock",
+    "Beetroot smoothie blended with berries or bananas",
+    "Fresh beetroot juice mixed with fruits or vegetables",
+    "Baked beetroot chips",
+    "Beetroot pasta dough or sauces",
+    "Beetroot desserts like cakes or brownies",
+    "Pickled beetroot as a side dish"
+  ],
+
+  "traditional_medicine_systems": [
+    "Ayurveda",
+    "Folk medicine",
+    "Traditional European herbal practices"
+  ],
+
+  "skin_care_uses": [
+    "Supports healthy skin due to antioxidants",
+    "May promote natural skin glow",
+    "Helps protect skin cells from oxidative damage"
+  ],
+
+  "topical_uses": [
+    "Beetroot juice sometimes used in natural face masks",
+    "Beetroot extracts used in cosmetic formulations"
+  ],
+
+  "recommended_consumption_methods": [
+    "Drink fresh beetroot juice",
+    "Add grated beetroot to salads",
+    "Include roasted beetroot in meals",
+    "Blend beetroot into smoothies"
+  ],
+
+  "safety_notes": [
+    "Excessive beetroot consumption may cause temporary red or pink urine (beeturia).",
+    "People prone to kidney stones should moderate intake due to oxalates.",
+    "High nitrate intake may interact with certain medications."
+  ],
+
+  "research_notes": "Research shows beetroot contains betalains and dietary nitrates that contribute to antioxidant activity, improved vascular function, and exercise performance. However, more human studies are needed to confirm some therapeutic claims.",
+
+  "notes": "Beetroot is widely studied for its nitrate content, which converts into nitric oxide in the body and helps improve blood flow and oxygen delivery."
+},
+{
+  "herb_id": "herb_009",
+  "name": "Papaya",
+  "scientific_name": "Carica papaya",
+  "category": "fruit / medicinal food",
+  "description": "Papaya is a tropical fruit that grows on tall tree-like plants in warm regions such as Central America, India, and Mexico. Often called a 'tree melon', papaya is technically a berry. It is widely consumed for its sweet taste and impressive nutritional profile. Papaya contains digestive enzymes, antioxidants, vitamins, and minerals that support digestion, immunity, heart health, and overall well-being.",
+
+  "key_compounds": [
+    "Papain",
+    "Beta-carotene",
+    "Lycopene",
+    "Vitamin C",
+    "Vitamin A",
+    "Polyphenols",
+    "Flavonoids",
+    "Potassium"
+  ],
+
+  "primary_properties": [
+    "Antioxidant",
+    "Anti-inflammatory",
+    "Digestive-supporting",
+    "Immune-supporting",
+    "Cardiovascular-supporting"
+  ],
+
+  "health_benefits": [
+    "Boosts immune system due to high vitamin C content",
+    "Supports digestive health with the papain enzyme",
+    "Helps protect vision through vitamin A and beta-carotene",
+    "May reduce inflammation and oxidative stress",
+    "Supports heart health and healthy blood pressure",
+    "May help regulate blood sugar levels",
+    "Promotes healthy skin and collagen production",
+    "Supports gut health with fiber and natural enzymes",
+    "May assist in weight management due to low calories and fiber",
+    "May help reduce risk of certain chronic diseases"
+  ],
+
+  "commonly_used_for": [
+    "Digestive support",
+    "Immune system support",
+    "Skin health",
+    "Heart health support",
+    "Anti-inflammatory dietary support",
+    "General nutritional supplementation"
+  ],
+
+  "preparation_methods": [
+    "Fresh sliced papaya",
+    "Papaya smoothie",
+    "Papaya juice",
+    "Grilled papaya",
+    "Papaya added to salads or curries"
+  ],
+
+  "common_combinations": [
+    "Honey",
+    "Lime",
+    "Yogurt",
+    "Banana",
+    "Spinach",
+    "Ginger"
+  ],
+
+  "dietary_uses": [
+    "Add fresh papaya cubes to salads",
+    "Blend papaya with yogurt or milk for smoothies",
+    "Grill papaya slices as a side dish",
+    "Use papaya in stews or curries",
+    "Drink fresh papaya juice",
+    "Add papaya to fruit bowls or breakfast meals"
+  ],
+
+  "traditional_medicine_systems": [
+    "Ayurveda",
+    "Traditional Caribbean medicine",
+    "Folk medicine"
+  ],
+
+  "skin_care_uses": [
+    "Papaya pulp used as a natural exfoliating face mask",
+    "Helps improve skin texture and glow",
+    "Supports collagen production due to vitamin C"
+  ],
+
+  "topical_uses": [
+    "Papaya pulp used in homemade face masks",
+    "Papaya extracts used in skincare formulations"
+  ],
+
+  "recommended_consumption_methods": [
+    "Eat fresh ripe papaya as fruit",
+    "Blend into smoothies with yogurt or milk",
+    "Add to salads or fruit bowls",
+    "Drink fresh papaya juice"
+  ],
+
+  "safety_notes": [
+    "People with latex allergies may experience allergic reactions to papaya.",
+    "Unripe papaya contains latex compounds that may cause digestive irritation.",
+    "Papaya may interact with blood-thinning medications.",
+    "Excessive consumption may cause digestive discomfort such as bloating or diarrhea.",
+    "Unripe papaya should be avoided during pregnancy."
+  ],
+
+  "research_notes": "Papaya contains enzymes, antioxidants, and vitamins that contribute to digestive support, anti-inflammatory effects, and immune health. However, more large-scale clinical studies are needed to confirm some of its therapeutic effects.",
+
+  "notes": "Papain, the main enzyme in papaya, helps break down proteins and supports digestion."
+},
+{
+  "herb_id": "herb_010",
+  "name": "Rosemary",
+  "scientific_name": "Rosmarinus officinalis",
+  "category": "medicinal herb / culinary herb",
+
+  "description": "Rosemary is a fragrant evergreen herb widely used in cooking, traditional medicine, and aromatherapy. Native to the Mediterranean region, it is valued for its antioxidant, antimicrobial, anti-inflammatory, and neuroprotective properties. Rosemary contains several bioactive compounds that support digestive health, cognitive function, stress relief, and food preservation.",
+
+  "key_compounds": [
+    "Rosmarinic acid",
+    "Carnosic acid",
+    "Carnosol",
+    "Luteolin",
+    "Caffeic acid",
+    "Ursolic acid",
+    "1,8-cineole",
+    "Camphor",
+    "Alpha-pinene"
+  ],
+
+  "primary_properties": [
+    "Antioxidant",
+    "Antimicrobial",
+    "Anti-inflammatory",
+    "Neuroprotective",
+    "Mood-enhancing"
+  ],
+
+  "health_benefits": [
+    "Strong antioxidant activity that helps neutralize free radicals",
+    "Supports gastrointestinal health and may help manage inflammatory bowel conditions",
+    "Possesses antimicrobial activity against several bacteria and fungi",
+    "May help reduce inflammation in the body",
+    "Supports brain function and cognitive performance",
+    "May help reduce stress and anxiety levels",
+    "May support mood regulation and help reduce depressive symptoms",
+    "May support memory and concentration",
+    "Promotes overall immune defense through antioxidant compounds"
+  ],
+
+  "commonly_used_for": [
+    "Digestive health",
+    "Stress and anxiety relief",
+    "Mood support",
+    "Memory enhancement",
+    "Antioxidant support",
+    "Food preservation",
+    "Hair and scalp health"
+  ],
+
+  "preparation_methods": [
+    "Rosemary tea",
+    "Fresh rosemary in cooking",
+    "Dried rosemary seasoning",
+    "Rosemary essential oil aromatherapy",
+    "Rosemary oil scalp massage",
+    "Herbal infusions"
+  ],
+
+  "common_combinations": [
+    "Garlic",
+    "Olive oil",
+    "Lemon",
+    "Thyme",
+    "Basil",
+    "Coconut oil",
+    "Almond oil"
+  ],
+
+  "dietary_uses": [
+    "Season meats, soups, sauces, and marinades",
+    "Add to bread, pasta sauces, and pizza dough",
+    "Use in herbal tea",
+    "Add to roasted vegetables or potatoes",
+    "Infuse in vinegar or cooking oils"
+  ],
+
+  "traditional_medicine_systems": [
+    "Mediterranean traditional medicine",
+    "Ayurveda",
+    "European herbal medicine",
+    "Folk medicine"
+  ],
+
+  "skin_care_uses": [
+    "Used in herbal oils for skin massage",
+    "Helps improve scalp health",
+    "May support hair growth when applied to the scalp",
+    "Used in herbal rinses and hair tonics"
+  ],
+
+  "topical_uses": [
+    "Diluted rosemary essential oil for scalp massage",
+    "Massage oil for muscle relaxation",
+    "Hair growth treatments",
+    "Herbal mouthwash preparations"
+  ],
+
+  "recommended_consumption_methods": [
+    "Drink rosemary tea",
+    "Use fresh or dried rosemary in cooking",
+    "Inhale rosemary essential oil through aromatherapy",
+    "Apply diluted essential oil to scalp or skin"
+  ],
+
+  "safety_notes": [
+    "Rosemary essential oil should always be diluted before topical use.",
+    "High doses of rosemary extracts may cause stomach irritation in sensitive individuals.",
+    "Pregnant individuals should consult a healthcare professional before using concentrated rosemary extracts.",
+    "Essential oils should not be ingested unless supervised by a qualified practitioner."
+  ],
+
+  "research_notes": "Scientific studies show rosemary possesses strong antioxidant and antimicrobial properties. Its bioactive compounds, particularly rosmarinic acid and carnosic acid, contribute to anti-inflammatory effects and potential neurological benefits including stress reduction and mood support.",
+
+  "notes": "Rosemary is widely studied for its potential role in food preservation due to its strong antioxidant and antimicrobial compounds."
+},
+{
+  "herb_id": "herb_011",
+  "name": "Onion",
+  "scientific_name": "Allium cepa",
+  "category": "vegetable / medicinal food",
+
+  "description": "Onion is a widely consumed vegetable belonging to the Allium family, which also includes garlic and leeks. It is valued for its strong flavor and numerous health benefits. Onions contain powerful antioxidants, flavonoids, and sulfur-containing compounds that support immune health, heart health, digestion, and overall wellness.",
+
+  "key_compounds": [
+    "Quercetin",
+    "Organosulfur compounds",
+    "Anthocyanins",
+    "Flavonoids",
+    "Vitamin C",
+    "Prebiotic fibers"
+  ],
+
+  "primary_properties": [
+    "Antioxidant",
+    "Antibacterial",
+    "Anti-inflammatory",
+    "Cardioprotective",
+    "Digestive-supporting"
+  ],
+
+  "health_benefits": [
+    "May help reduce risk of certain cancers such as colorectal, breast, stomach, and lung cancers",
+    "Provides strong antioxidant protection against free radical damage",
+    "Supports heart health by helping reduce cholesterol and blood pressure",
+    "May reduce risk of blood clots, heart attacks, and strokes",
+    "Helps regulate metabolic syndrome risk factors",
+    "Supports bone health and may reduce risk of osteoporosis",
+    "Exhibits antibacterial properties against certain harmful bacteria",
+    "Supports digestive health through prebiotic fiber that nourishes beneficial gut bacteria",
+    "May help reduce chronic inflammation"
+  ],
+
+  "commonly_used_for": [
+    "Heart health support",
+    "Digestive health",
+    "Immune system support",
+    "Bone health",
+    "Antioxidant support",
+    "General nutritional support"
+  ],
+
+  "preparation_methods": [
+    "Raw onion slices",
+    "Sauteed onions",
+    "Caramelized onions",
+    "Roasted onions",
+    "Onion juice",
+    "Cooked in soups or stews"
+  ],
+
+  "common_combinations": [
+    "Garlic",
+    "Tomato",
+    "Olive oil",
+    "Potato",
+    "Bell peppers",
+    "Carrots",
+    "Eggs"
+  ],
+
+  "dietary_uses": [
+    "Add sliced onions to salads and sandwiches",
+    "Use onions as a base for soups and stews",
+    "Add diced onions to omelets and breakfast dishes",
+    "Include onions in stir-fries with vegetables and protein",
+    "Roast onions with vegetables such as carrots and potatoes",
+    "Caramelize onions for sauces and flavoring"
+  ],
+
+  "traditional_medicine_systems": [
+    "Ayurveda",
+    "Traditional Chinese Medicine",
+    "Folk medicine",
+    "Mediterranean traditional diets"
+  ],
+
+  "skin_care_uses": [
+    "Onion extract used in some scar treatment products",
+    "Antioxidants may support skin health"
+  ],
+
+  "topical_uses": [
+    "Onion juice used in some traditional remedies for hair and scalp care",
+    "Onion extract used in certain cosmetic formulations"
+  ],
+
+  "recommended_consumption_methods": [
+    "Eat raw onions in salads",
+    "Cook onions in stir-fries or vegetable dishes",
+    "Add onions to soups and stews",
+    "Include onions in roasted vegetable dishes"
+  ],
+
+  "safety_notes": [
+    "Raw onions may cause gas, bloating, or digestive discomfort in some individuals.",
+    "Cooking onions may make them easier to digest.",
+    "People with sensitive stomachs or IBS may experience digestive irritation from high onion intake."
+  ],
+
+  "research_notes": "Research shows onions contain numerous flavonoids and sulfur compounds that provide antioxidant, antibacterial, and cardioprotective benefits. Quercetin is one of the most studied compounds responsible for many of these health effects.",
+
+  "notes": "Red onions contain higher levels of anthocyanins and flavonoids compared to other varieties."
+},
+{
+  "herb_id": "herb_012",
+  "name": "Lavender",
+  "scientific_name": "Lavandula angustifolia",
+  "category": "medicinal herb / aromatic herb",
+
+  "description": "Lavender is a flowering herb known for its fragrant purple or bluish flowers and calming aroma. Native to the Mediterranean region, it is widely cultivated around the world for its therapeutic, culinary and aromatic uses. Lavender is commonly used in aromatherapy, herbal teas, skincare products and natural remedies due to its calming, anti-inflammatory and antimicrobial properties.",
+
+  "key_compounds": [
+    "Linalool",
+    "Linalyl acetate",
+    "Flavonoids",
+    "Coumarins",
+    "Terpenes",
+    "Polyphenols"
+  ],
+
+  "primary_properties": [
+    "Calming",
+    "Antioxidant",
+    "Anti-inflammatory",
+    "Antimicrobial",
+    "Mood-supporting"
+  ],
+
+  "health_benefits": [
+    "Supports better sleep and may improve melatonin levels",
+    "Helps reduce anxiety, stress and depressive symptoms",
+    "May relieve migraine headaches through aromatherapy",
+    "Reduces inflammation and supports pain relief",
+    "May help reduce menstrual cramps",
+    "Supports wound healing and collagen production",
+    "May reduce colic symptoms in infants through aromatherapy massage",
+    "Possesses antimicrobial and antiviral properties"
+  ],
+
+  "commonly_used_for": [
+    "Sleep support",
+    "Stress and anxiety relief",
+    "Mood enhancement",
+    "Headache relief",
+    "Menstrual pain relief",
+    "Aromatherapy and relaxation"
+  ],
+
+  "preparation_methods": [
+    "Lavender tea",
+    "Lavender essential oil aromatherapy",
+    "Lavender extract",
+    "Lavender-infused oil",
+    "Dried lavender for potpourri or sachets"
+  ],
+
+  "common_combinations": [
+    "Chamomile",
+    "Rose",
+    "Lemon balm",
+    "Coconut oil",
+    "Almond oil",
+    "Jojoba oil"
+  ],
+
+  "dietary_uses": [
+    "Used in herbal teas",
+    "Added to baked goods or desserts in small quantities",
+    "Ingredient in French spice blend 'Herbes de Provence'",
+    "Infused in honey or syrups for flavor"
+  ],
+
+  "traditional_medicine_systems": [
+    "European herbal medicine",
+    "Aromatherapy traditions",
+    "Folk medicine"
+  ],
+
+  "skin_care_uses": [
+    "Used in skincare oils and creams for calming irritated skin",
+    "May support wound healing",
+    "Used in soaps and bath products",
+    "Helps promote relaxation during skincare routines"
+  ],
+
+  "topical_uses": [
+    "Diluted lavender essential oil for massage",
+    "Lavender oil for aromatherapy baths",
+    "Applied to skin through infused oils",
+    "Used in scalp massage oils"
+  ],
+
+  "recommended_consumption_methods": [
+    "Drink lavender tea",
+    "Use lavender flowers in cooking",
+    "Inhale lavender essential oil through aromatherapy",
+    "Apply diluted lavender oil to skin"
+  ],
+
+  "safety_notes": [
+    "Lavender essential oil should be diluted before applying to skin.",
+    "Ingesting lavender essential oil directly is not recommended.",
+    "Some individuals may experience sensitivity or allergic reactions to lavender fragrance.",
+    "Use lavender products cautiously for young children."
+  ],
+
+  "research_notes": "Studies suggest lavender may help reduce stress, anxiety and sleep disturbances through its effects on the nervous system. Compounds such as linalool contribute to its calming and mood-supporting properties.",
+
+  "notes": "Lavender is one of the most widely used herbs in aromatherapy due to its soothing fragrance and relaxing effects."
+},
+{
+  "herb_id": "herb_013",
+  "name": "Neem",
+  "scientific_name": "Azadirachta indica",
+  "category": "medicinal herb / traditional medicinal tree",
+
+  "description": "Neem is a medicinal tree widely used in traditional medicine systems, particularly in South Asia. Almost every part of the neem tree—including leaves, bark, seeds, and oil—has therapeutic value. Neem is known for its strong antimicrobial, anti-inflammatory, antioxidant and healing properties, making it useful in skincare, oral care, wound healing and infection control.",
+
+  "key_compounds": [
+    "Azadirachtin",
+    "Nimbolide",
+    "Nimbidin",
+    "Azadiradione",
+    "Limonoids",
+    "Flavonoids"
+  ],
+
+  "primary_properties": [
+    "Antioxidant",
+    "Anti-inflammatory",
+    "Antibacterial",
+    "Antiviral",
+    "Antifungal",
+    "Antimalarial"
+  ],
+
+  "health_benefits": [
+    "Provides strong antioxidant protection against free radicals",
+    "Helps reduce inflammation in the body",
+    "Supports wound healing and tissue regeneration",
+    "Inhibits growth of harmful bacteria",
+    "May help fight viral infections",
+    "Shows antifungal properties against several pathogenic fungi",
+    "May reduce malaria parasite activity",
+    "Supports oral health by preventing harmful microbes",
+    "May help treat skin conditions such as eczema, psoriasis and acne",
+    "Supports scalp health and helps reduce dandruff"
+  ],
+
+  "commonly_used_for": [
+    "Skin disorders",
+    "Wound healing",
+    "Oral hygiene",
+    "Hair and scalp health",
+    "Antimicrobial protection",
+    "Inflammation management"
+  ],
+
+  "preparation_methods": [
+    "Neem leaf tea",
+    "Neem leaf paste or poultice",
+    "Neem oil topical application",
+    "Neem powder from bark or leaves",
+    "Neem extract supplements"
+  ],
+
+  "common_combinations": [
+    "Aloe vera",
+    "Coconut oil",
+    "Lavender oil",
+    "Jojoba oil",
+    "Almond oil"
+  ],
+
+  "dietary_uses": [
+    "Neem leaf tea mixed with other herbs",
+    "Neem honey used in traditional remedies",
+    "Small amounts of neem leaves used in traditional dishes"
+  ],
+
+  "traditional_medicine_systems": [
+    "Ayurveda",
+    "Traditional Indian medicine",
+    "Folk medicine"
+  ],
+
+  "skin_care_uses": [
+    "Used for acne treatment",
+    "Helps manage eczema and psoriasis",
+    "Supports wound healing",
+    "Used in soaps, creams, lotions and facial cleansers"
+  ],
+
+  "topical_uses": [
+    "Neem oil applied to skin for infections or irritation",
+    "Diluted neem oil for scalp massage",
+    "Neem oil added to shampoos or hair treatments",
+    "Neem oil applied to wounds or skin inflammation"
+  ],
+
+  "recommended_consumption_methods": [
+    "Drink neem leaf tea in small quantities",
+    "Use neem extracts under professional guidance",
+    "Apply neem oil diluted with carrier oils"
+  ],
+
+  "safety_notes": [
+    "Neem oil should be diluted before applying to skin to avoid irritation.",
+    "Excessive ingestion of neem products may cause adverse effects.",
+    "Neem oil should not be consumed orally without medical supervision.",
+    "Pregnant individuals should avoid neem consumption due to potential risks."
+  ],
+
+  "research_notes": "Scientific studies have demonstrated neem's strong antimicrobial, anti-inflammatory and antioxidant activities. Compounds such as azadirachtin, nimbolide and nimbidin contribute to its medicinal properties.",
+
+  "notes": "Neem has been called the 'village pharmacy' in traditional Indian medicine because nearly every part of the tree has medicinal value."
+},
+{
+  "herb_id": "herb_014",
+  "name": "Aloe Vera",
+  "scientific_name": "Aloe barbadensis Miller",
+  "category": "medicinal succulent plant",
+
+  "description": "Aloe vera is a succulent medicinal plant widely used for skincare, wound healing and digestive health. The gel extracted from its leaves contains bioactive compounds that provide anti-inflammatory, antioxidant and healing properties. Aloe vera has been used traditionally for burns, skin conditions, gastrointestinal disorders and metabolic diseases such as diabetes.",
+
+  "key_compounds": [
+    "Aloin",
+    "Anthraquinone glycosides",
+    "Polysaccharides",
+    "Acemannan",
+    "Vitamins A, C, and E",
+    "Flavonoids"
+  ],
+
+  "primary_properties": [
+    "Antioxidant",
+    "Anti-inflammatory",
+    "Wound healing",
+    "Laxative",
+    "Antimicrobial"
+  ],
+
+  "health_benefits": [
+    "Promotes skin regeneration and wound healing",
+    "Helps treat burns and skin irritation",
+    "Supports treatment of dermatological conditions such as psoriasis and dermatitis",
+    "Acts as a natural laxative for constipation",
+    "May help regulate blood glucose levels in diabetes",
+    "May help improve cholesterol and triglyceride levels",
+    "Supports gastrointestinal health and may reduce inflammation in the digestive tract",
+    "May support immune function"
+  ],
+
+  "commonly_used_for": [
+    "Burn treatment",
+    "Skin conditions",
+    "Wound healing",
+    "Digestive health",
+    "Constipation",
+    "Blood sugar regulation"
+  ],
+
+  "preparation_methods": [
+    "Fresh aloe gel extracted from leaf",
+    "Aloe vera juice",
+    "Aloe gel topical application",
+    "Whole-leaf aloe extract"
+  ],
+
+  "common_combinations": [
+    "Honey",
+    "Turmeric",
+    "Neem",
+    "Coconut oil",
+    "Herbal juices"
+  ],
+
+  "dietary_uses": [
+    "Aloe vera juice diluted with water",
+    "Blended aloe pulp mixed with fruit juice",
+    "Traditional herbal drinks"
+  ],
+
+  "traditional_medicine_systems": [
+    "Ayurveda",
+    "Traditional Chinese Medicine",
+    "Folk medicine"
+  ],
+
+  "skin_care_uses": [
+    "Soothes burns and sunburn",
+    "Helps treat acne and skin irritation",
+    "Promotes wound healing and tissue regeneration",
+    "Used in creams, gels and cosmetic formulations"
+  ],
+
+  "topical_uses": [
+    "Applied directly as gel on burns and wounds",
+    "Used in skincare products and moisturizers",
+    "Used in wound dressings"
+  ],
+
+  "recommended_consumption_methods": [
+    "15–20 ml aloe vera juice mixed with equal water",
+    "Fresh aloe pulp blended with water or juice"
+  ],
+
+  "safety_notes": [
+    "Avoid aloe vera consumption during pregnancy due to possible uterine contractions.",
+    "Avoid during lactation unless advised by a medical professional.",
+    "Excess consumption may cause diarrhea due to laxative effects.",
+    "Aloe latex should be used cautiously because of strong laxative properties."
+  ],
+
+  "research_notes": "Clinical studies show aloe vera may support wound healing, burn treatment, digestive health and blood glucose regulation. However, more standardized clinical trials are needed to confirm its effectiveness in many therapeutic applications.",
+
+  "notes": "Aloe vera gel is widely used in both traditional medicine and modern cosmetic products due to its soothing, healing and moisturizing properties."
+},
+{
+  "herb_id": "herb_015",
+  "name": "Coconut Oil",
+  "scientific_name": "Cocos nucifera",
+  "category": "natural oil / plant-derived edible oil",
+
+  "description": "Coconut oil is a natural oil extracted from the kernel of mature coconuts. It is widely used in cooking, traditional medicine, skincare and hair care. Coconut oil is rich in medium-chain triglycerides (MCTs), especially lauric acid, which provide antimicrobial, moisturizing and energy-boosting properties. It is commonly used both as a dietary fat and as a topical treatment for skin, hair and oral health.",
+
+  "key_compounds": [
+    "Lauric acid",
+    "Medium-chain triglycerides (MCTs)",
+    "Caprylic acid",
+    "Capric acid",
+    "Monolaurin",
+    "Polyphenols"
+  ],
+
+  "primary_properties": [
+    "Antimicrobial",
+    "Moisturizing",
+    "Antioxidant",
+    "Energy-boosting",
+    "Anti-inflammatory"
+  ],
+
+  "health_benefits": [
+    "Helps moisturize dry skin and improve skin barrier function",
+    "May reduce symptoms of skin conditions such as eczema and dermatitis",
+    "Protects hair strands and reduces hair breakage",
+    "Improves hair strength and flexibility",
+    "Supports oral health through oil pulling",
+    "May reduce harmful oral bacteria such as Streptococcus mutans",
+    "Provides a quick source of energy due to MCTs",
+    "May increase levels of HDL (good cholesterol)",
+    "May support gut microbiome when consumed as minimally processed oil",
+    "May show antimicrobial activity against bacteria, viruses and fungi"
+  ],
+
+  "commonly_used_for": [
+    "Skin moisturization",
+    "Hair conditioning",
+    "Cooking and baking",
+    "Oral hygiene (oil pulling)",
+    "Quick energy source",
+    "Natural antimicrobial support"
+  ],
+
+  "preparation_methods": [
+    "Virgin coconut oil extracted from fresh coconut meat",
+    "Refined coconut oil for high-temperature cooking",
+    "Cold-pressed coconut oil",
+    "Coconut oil used as cooking oil or topical oil"
+  ],
+
+  "common_combinations": [
+    "Neem",
+    "Aloe vera",
+    "Turmeric",
+    "Lavender oil",
+    "Herbal extracts"
+  ],
+
+  "dietary_uses": [
+    "Used for high-temperature cooking and frying",
+    "Used in baking to add moisture and texture",
+    "Used as a substitute for vegetable oils",
+    "Added to beverages or foods as a source of healthy fats"
+  ],
+
+  "traditional_medicine_systems": [
+    "Ayurveda",
+    "Traditional tropical medicine",
+    "Folk medicine"
+  ],
+
+  "skin_care_uses": [
+    "Natural moisturizer for dry skin",
+    "Helps reduce symptoms of eczema and dermatitis",
+    "Used in creams, lotions and body oils",
+    "May provide mild protection against environmental factors"
+  ],
+
+  "topical_uses": [
+    "Applied directly to skin as a moisturizer",
+    "Used as hair oil or hair mask",
+    "Used as lip balm for chapped lips",
+    "Applied to scalp for hair conditioning",
+    "Used as mild natural sunscreen"
+  ],
+
+  "recommended_consumption_methods": [
+    "Used as cooking oil for stir-frying or baking",
+    "1–2 teaspoons added to foods or beverages",
+    "Used for oil pulling by swishing in the mouth for oral hygiene"
+  ],
+
+  "safety_notes": [
+    "Coconut oil is high in saturated fat and should be consumed in moderation.",
+    "Excessive intake may contribute to increased calorie consumption.",
+    "Some individuals may experience clogged pores when applied to facial skin.",
+    "Oil pulling should not replace professional dental care."
+  ],
+
+  "research_notes": "Studies suggest that coconut oil's lauric acid and MCTs contribute to antimicrobial effects, skin hydration, and rapid energy metabolism. Research also indicates benefits for oral health and hair protection.",
+
+  "notes": "Coconut oil is widely used across tropical cultures for cooking, medicine and cosmetic applications due to its stability, long shelf life and versatile health benefits."
+}
+]
