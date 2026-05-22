@@ -11,7 +11,7 @@ from google import genai
 # =========================
 # CONFIG
 # =========================
-GENAI_API_KEY = "AIzaSyCDdg-OdX21wI3ypcotDbz447W47XDKud8"  
+GENAI_API_KEY = ""  
 GEMINI_MODEL = "gemini-2.5-flash-lite"
 
 # =========================
